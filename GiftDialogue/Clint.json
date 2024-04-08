@@ -16,7 +16,10 @@
       "AcceptGift_(O)70": "Ah, a piece of Jade! It's a favorite of miners, which means an easy sale for me, heheh!$h#$e#I heard about these new Crystalariums... Apparently, Jades are one of the most duplicated gems. Careful these machines don't put you out of a job, @.", //Jade
       "AcceptGift_(O)72": "A diamond!? Oh boy... Don't misunderstand, I'm grateful, they're just so hard to work with... Thank you, @.$s", //Diamond
       "AcceptGift_(O)74": "Is that a Prismatic Shard!? Never thought I'd see one this close...! I don't know what to say, thank you @!$h#$e#I wish I had a tidbit for you, but these are genuinely so rare. I don't know what I'll even make with that one!$h", //Prismatic Shard
-      "AcceptGift_(O)Book_Friendship": "What is that supposed to mean? Rude.$a#$b#Wait... Are you just looking out for me? ...Okay, I'll read it. Maybe this can help me with... Never mind. Thanks, @." //Friendship 101
+      "AcceptGift_(O)Book_Friendship": "What is that supposed to mean? Rude.$a#$b#Wait... Are you just looking out for me? ...Okay, I'll read it. Maybe this can help me with... Never mind. Thanks, @.", //Friendship 101
+      "AcceptGift_furnace_item": "You got a good handle on those furnaces of yours. I always welcome more raw material to work with!", //All furnace items except the ones below (e.g. copper bar, iron bar, golf bar, iri bar, and modded items)
+      "AcceptGift_(O)910": "What is wrong with you!? Are you trying to irradiate us all to death!? Get that out of my forge immediately![910]$3", //Radioactive Bar
+      "AcceptGift_(O)338": "I can find an use or two for this. Thanks.#$e#Quartz has many interesting properties that make it very versatile, but it's pretty affordable. Still, a gift's a gift." //Refined Quartz
 
     }
   }
