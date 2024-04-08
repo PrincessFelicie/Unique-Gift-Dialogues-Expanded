@@ -1,0 +1,15 @@
+/*Vanilla Mister Qi has lines for [645][163][74]4]4]4]4]4]4]}}}}}*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Mister Qi",
+
+    "Entries": {
+
+      "AcceptGift_(O)???": "A little too nosy, aren't we? $1", //Prismatic BarOreFishForageArtifactArtisangoodHaleyMastery
+      "AcceptGift_(O)149": "Urrrgh... If I were a rich man... Yagadigadigadigadigadagadigadam, all day long I'd bidibidibum, if I were a wealthy man, oy!"
+
+    }
+  }
+]}

@@ -1,0 +1,14 @@
+/*Vanilla Vincent has lines for the Frog Egg Trinket, and for alcohol.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Vincent",
+
+    "Entries": {
+
+      "AcceptGift_(O)221": "Wow, it's so big! I don't have to share, do I?$h#$b#Well it's *my* cake, so *I* get to choose what I do with it.", //Pink Cake
+
+    }
+  }
+]}

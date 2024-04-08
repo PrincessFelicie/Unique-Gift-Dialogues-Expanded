@@ -1,0 +1,14 @@
+/*Vanilla Demetrius already has lines for Dinosaur Egg... That's it.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Demetrius",
+
+    "Entries": {
+
+      "AcceptGift_(O)207": "A healthy source of carbohydrates, and delicious to boot! What isn't there to love? Thank you!$h#$e#Truth be told, my other favorites are on the dessert side..." //Bean Hotpot
+
+    }
+  }
+]}

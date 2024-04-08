@@ -1,0 +1,15 @@
+/*Vanilla Maru has lines for Battery Pack, Gold Bar, Iridium Bar, Dwarf Gadget, Radioactive Bar.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Maru",
+
+    "Entries": {
+
+      "AcceptGift_(O)725": "Resin! An excellent natural sealant and adhesive. Really useful for building all kinds of gadgets. Thanks!$h", //Oak Resin
+      "AcceptGift_(O)726": "This is perfect for an outdoorsy project I've been tinkering with! Thanks!$h#$e#Pine Tar is perfectly suited to protecting wood from all kinds of mold and insects. Very useful for fine machinery!" //Pine Tar
+
+    }
+  }
+]}

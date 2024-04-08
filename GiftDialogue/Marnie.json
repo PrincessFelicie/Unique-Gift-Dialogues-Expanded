@@ -1,0 +1,21 @@
+/*Vanilla Marnie has a line for the Stardew Valley Almanac.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Marnie",
+
+    "Entries": {
+
+      "AcceptGift_(O)221": "Oh my, what's the occasion? I don't remember ordering a cake... Thank you, @!$h#$e# %revealtasteJas221 This is also Jas's favorite, you know. I'll make sure to share some with her.", //Pink Cake
+      "AcceptGift_category_egg": "Happy to see your chickens are doing just fine!", //Eggs. Should only trigger for chicken eggs (and modded eggs, which I can't account for.)
+      "AcceptGift_(O)442": "Ah, a little duckling could come out of that one! Thank you.", //Duck Egg
+      "AcceptGift_(O)305": "Erm... Is one of your hens sick, @? Do you want me to take a look at her?$s", //Void Egg
+      "AcceptGift_(O)289": "What a monster of an egg! I don't think this will fit in an incubator...$h", //Ostrich Egg
+      "purchasedAnimal_Dinosaur": "What!? You hatched a *dinosaur*!?$4#$b#You are one exceptional rancher, @, you know that?$h", //Hatched a dinosaur... Sorry! Couldn't help myself, had to add a reaction from her at that news.
+      //"AcceptGift_(O)107": "$query ANY \"PLAYER_HAS_CONVERSATION_TOPIC Any purchasedAnimal_Dinosaur\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any purchasedAnimal_Dinosaur\"#I don't think I want to ranch dinosaurs. Sorry, @.$s|What kind of egg is this...? Is it worth incubating...? Keep it, @. You're the one who found it. [107]$s", //Dinosaur Egg, with thanks to spacechase0 for the advance SpaceCore patch <3
+      "AcceptGift_(O)807": "Hmm... That grassy smell... Maybe I can do something unique out of this. Thanks!$h",//Dinosaur Mayo
+      "AcceptGift_(O)446": "So you're getting these too? I have no idea where they come from, since none of my rabbits seem to be missing a limb... Thank you." //Rabbit's Foot. Maybe too on the nose... worth revisiting.
+    }
+  }
+]}

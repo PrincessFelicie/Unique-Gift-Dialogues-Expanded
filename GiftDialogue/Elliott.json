@@ -1,0 +1,15 @@
+/*Vanilla Elliott already has lines for beach forage, books, Squid Ink, Duck Feather, Sea Cucumber, Super Cucumber. The
+latter two even refund you the 'gift'...*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Elliott",
+
+    "Entries": {
+
+      "AcceptGift_(O)715": "A beautiful, crimson red Lobster! Visualize it grilled over a campfire... Tonight, I shall enjoy a crustacean feast!$h#$e#What can I say? I wouldn't be living on the beach if I didn't enjoy seafood."//Lobster
+
+    }
+  }
+]}

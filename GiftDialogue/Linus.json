@@ -1,0 +1,16 @@
+/*Vanilla Linus has a line for The Alleyway Buffet, all forage items, Wild Bait, Treasure Chest, and all fish.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Linus",
+
+    "Entries": {
+
+      "AcceptGift_(O)88": "Did you bring this back all the way from the desert just for me? Thank you!$h", //Coconut
+      "AcceptGift_(O)90": "Did you bring this back all the way from the desert just for me? Thank you!$h", //Cactus Fruit
+      "AcceptGift_(O)283": "Thank you! This will liven up my tent a little bit.$h" //Holly... Don't eat it, Linus :(
+
+    }
+  }
+]}

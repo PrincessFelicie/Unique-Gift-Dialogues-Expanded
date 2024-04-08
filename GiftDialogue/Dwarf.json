@@ -1,0 +1,16 @@
+/*Vanilla Dwarf already has a line for Milk items. He doesn't seem to like where it comes from.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Dwarf",
+
+    "Entries": {
+
+      "AcceptGift_(O)554": "Oh ho! It is rare that I get to have one of these!#$e#If you were wondering about a comparison... I suppose these would be akin to your human \"cheeses\", to us.",//Lemon Stone
+      "AcceptGift_(O)121": "This looks... worn. Another remain from my ancestors, most likely. Thank you, human.", //Dwarvish Helm
+      "AcceptGift_(O)122": "Wish that I knew how to operate this. This is definitely one of ours...#$e#I heard that there is a giant Dwarvish machine still functional on an island south of there... I hope to go see it some day." //Dwarf Gadget
+
+    }
+  }
+]}

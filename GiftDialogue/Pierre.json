@@ -1,0 +1,14 @@
+/*Vanilla Pierre has a line for the price catalogue.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Pierre",
+
+    "Entries": {
+
+      "AcceptGift_(O)202": "*munch munch* Yum! Delicious! Tastes just like my wife's...$h#$b# Did she give you the recipe? Please, keep them coming!$h", //Fried Calamari
+
+    }
+  }
+]}

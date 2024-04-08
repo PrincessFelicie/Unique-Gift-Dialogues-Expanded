@@ -1,0 +1,14 @@
+/*Vanilla Wizard has no extra lines outside stardrop tea.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Wizard",
+
+    "Entries": {
+
+      "AcceptGift_(O)155": "Ah, the humble Super Cucumber. One of the few magically enhanced creatures roaming this land... The lining of its stomach makes for an excellent potion canteen once tanned. I thank you.", //Super Cucumber
+
+    }
+  }
+]}

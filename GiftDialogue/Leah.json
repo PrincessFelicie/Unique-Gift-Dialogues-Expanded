@@ -1,0 +1,14 @@
+/*Vanilla Leah already has lines for Driftwood, Salad, Vegetable Medley, Truffle.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Leah",
+
+    "Entries": {
+
+      "AcceptGift_(O)348": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of wine at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h", //Wine
+
+    }
+  }
+]}

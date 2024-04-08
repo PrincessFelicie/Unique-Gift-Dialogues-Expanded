@@ -1,0 +1,21 @@
+/*Vanilla Pam has no extra lines outside of Stardrop Tea.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Pam",
+
+    "Entries": {
+
+      "AcceptGift_(O)167": "Now all I need is a pirate to gift me the other half. Thanks, kid.", //Joja Cola
+      "AcceptGift_(O)346": "$query LOCATION_NAME Here Saloon#Buying me a round? That's sweet of you, kid! *gulp gulp*|Now that's speaking my language, kid. Thanks!$h", //Beer
+      "AcceptGift_(O)459": "It's no ambrosia, but it's gotta taste just as sweet, right? You spoil me, kid!$h", //Mead
+      "AcceptGift_(O)303": "Doing me a solid, kid. Now come to mama, you!$h", //Pale Ale
+      "AcceptGift_(O)873": "*siiip* Now that tastes tropical! $h", //Piña Colada
+      "AcceptGift_(O)348": "$query A whole wine bottle!? You're not trying to put me in your debt, are you?$3#$b#You're not? ...Sorry, kid. I'm used to people this nice expecting something in return. Thanks.$0#$e#Let's both forget that happened, alright?$0", //Wine
+      "AcceptGift_(O)24": "$query PLAYER_NPC_RELATIONSHIP Any Penny Married#Now that looks delicious, kid! Guess I'll try cooking tonight. Thanks.$h#$b#It's hard without Penny around, but... If she's happy on the farm, I'm happy.|Now that looks delicious, kid! I'll ask Penny to cook it tonight. Thanks.$h#$b#What?", //Parsnip
+      "AcceptGift_(O)199": "Smells like it warms the heart, just the way I like it... Thank you, kid. I'm eating healthy today.$h", //Parsnip Soup
+
+    }
+  }
+]}

@@ -1,0 +1,14 @@
+/*Vanilla Caroline already has lines for Wild Horseradish... That's it.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Caroline",
+
+    "Entries": {
+
+      "AcceptGift_(O)213": "Ah, a tuna taco...! How did you know I love this? Thank you, @!$h#$e#Willy sells his own fish, so it is rare we have any in store. I don't get to make those as often as I wish..." //Fish Taco
+
+    }
+  }
+]}

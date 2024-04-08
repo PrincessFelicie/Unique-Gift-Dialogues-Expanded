@@ -1,0 +1,15 @@
+/*Vanilla Krobus already has lines for Monster Compendium, Monster Musk, Void Mayonnaise.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Krobus",
+
+    "Entries": {
+
+      "AcceptGift_(O)203": "May I...? *munch munch* Oh wow... Is this really human cuisine? I've never tasted anything more delicious!$h#$e#Most of your people's cooking has disappointed me, but this is an exception.", //Strange Bun
+      "AcceptGift_(O)265": "It kind of smells like the sewers, but... better. Thank you." //Seafoam Pudding
+
+    }
+  }
+]}

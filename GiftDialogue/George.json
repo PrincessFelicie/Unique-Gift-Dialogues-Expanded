@@ -1,0 +1,12 @@
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/George",
+
+    "Entries": {
+
+      "AcceptGift_(O)20": "*sniff sniff* That amazing smell... Did she put you up to this? Bah, this is great either way!$h" //Leek
+
+    }
+  }
+]}

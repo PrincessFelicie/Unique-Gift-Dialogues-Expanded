@@ -1,0 +1,18 @@
+/*Vanilla Leo uses different dialogue sheets depending on whether he's reached the valley or not. Which is great! It means
+I can have this sheet have his 'wild' speech, then edit the second for once he becomes one of Penny's students.
+This version of Leo's dialogue sheet has a line for the Parrot Egg trinket.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Leo",
+
+    "Entries": {
+
+      "AcceptGift_(O)395": "What is this? Drink of 'beans'? *sluuurp*#$b#...uh-oh. $2#$€#>F-f-f-fly!! M-m-must f-f-fly f-f-fly f-f-fly!!!$2", //Coffee
+      "AcceptGift_(O)253": "This smells too bitter. *blech*$s", //Triple-Shot Expresso
+      "AcceptGift_(O)444": "Oh, pretty feather! It's like my parrot ones...$h#$e#'Duck'? Is that parrot name where you're from?" //Duck Feather
+
+    }
+  }
+]}

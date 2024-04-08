@@ -1,0 +1,16 @@
+/*Vanilla Abigail already has lines for the Basilisk's Paw trinket, Combat Quarterly, Monster Compendium, Ancient Sword,
+Bone Flute, Amethyst, Magic Rock Candy.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Abigail",
+
+    "Entries": {
+
+      "AcceptGift_(O)306": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?$h#$e#%revealtasteCaroline306 %revealtasteCaroline307 I ate mayo straight out of the jar once to prank my mom... I don't think she ever recovered!$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307 Then I did it again with Sam and Sebastian. Good times.#$b#So who do you think I should scare next?$h", //Mayonnaise
+      "AcceptGift_(O)307": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?$h#$e#%revealtasteCaroline306 %revealtasteCaroline307 I ate mayo straight out of the jar once to prank my mom... I don't think she ever recovered!$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307 Then I did it again with Sam and Sebastian. Good times.#$b#So who do you think I should scare next?$h", //Duck Mayonnaise
+
+    }
+  }
+]}

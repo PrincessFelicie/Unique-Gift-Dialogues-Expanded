@@ -1,0 +1,14 @@
+/*Vanilla Lewis has no extra lines. Poor mayor.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Lewis",
+
+    "Entries": {
+
+      "AcceptGift_(O)200": "You truly do take after your grandfather... Ever the thoughtful gift in mind! Thank you, @!$h", //Vegetable Medley
+
+    }
+  }
+]}

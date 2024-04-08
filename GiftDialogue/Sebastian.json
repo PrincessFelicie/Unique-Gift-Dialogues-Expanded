@@ -1,0 +1,14 @@
+/*Vanilla Sebastian has lines for Obsidian, Jack be Nimble Jack Be Thick, Sashimi, Void Egg, Pumpkin Soup, and the Frog Egg Trinket. What an eclectic list.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Sebastian",
+
+    "Entries": {
+
+      "AcceptGift_(O)84": "A frozen tear... It's so poetic to think about. What kind of tragedy is preserved inside?$h", //Frozen Tear
+
+    }
+  }
+]}

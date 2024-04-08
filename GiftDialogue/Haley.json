@@ -1,0 +1,14 @@
+/*Vanilla Haley already has lines for Coconut, Sunflower, and that's it. Pretty low for a bachelor. */
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Haley",
+
+    "Entries": {
+
+      "AcceptGift_(O)221": "Of course you'd know my favorite, who doesn't? It's not like I keep it a secret, hehe! Thanks!$h" //Pink Cake
+
+    }
+  }
+]}

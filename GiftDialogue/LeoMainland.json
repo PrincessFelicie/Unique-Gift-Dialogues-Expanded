@@ -1,0 +1,19 @@
+/*Vanilla Leo uses different dialogue sheets depending on whether he's reached the valley or not. Which is great! It means
+I can have this sheet have his 'wild' speech, then edit the second for once he becomes one of Penny's students.
+This version of Leo's dialogue sheet has no AcceptGift line, outside of Stardrop Tea, like everyone.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/LeoMainland",
+
+    "Entries": {
+
+      "AcceptGift_(TR)ParrotEgg": "This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.", //Vanilla line, present in Leo but missing from LeoMainland. Written pretty circumstances-agnostic, might as well make it active for LeoMainland too.
+      "AcceptGift_(O)395": "What is this? You made a drink out of beans? *sluuurp*#$b#...uh-oh. $2#$€#>I-I-I ca-a-a-an't si-i-i-it sti-i-i-i-ill...!!!$2", //Coffee
+      "AcceptGift_(O)253": "This smells too bitter. I don't want that.[253]$s", //Triple-Shot Expresso
+      "AcceptGift_(O)444": "Oh, what a pretty feather! It's like my parrot ones...$h#$e#A 'duck' feather? I'll ask Miss Penny about it!$h" //Duck Feather
+
+    }
+  }
+]}

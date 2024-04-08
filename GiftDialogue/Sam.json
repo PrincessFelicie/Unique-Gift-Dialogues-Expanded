@@ -1,0 +1,16 @@
+/*Vanilla Sam has lines for Pizza, and... uh... *checks notes* *starts flipping pages* that's it? That feels so wrong.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Sam",
+
+    "Entries": {
+
+      "AcceptGift_(O)90": "Aw yea, you brought me back a prickly pear? You're the best, @!", //Cactus Fruit
+      "AcceptGift_(O)306": "No... Not again... Noooo!!!$8", //Mayonnaise
+      "AcceptGift_(O)307": "No... Not again... Noooo!!!$8", //Duck Mayonnaise
+
+    }
+  }
+]}

@@ -1,0 +1,15 @@
+/*Vanilla Jas already has lines for the Fairy Box trinket, Ancient Doll, all other dolls, alcohol items and coffee items.
+Pretty much knocked out all the easy ones.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Jas",
+
+    "Entries": {
+
+      "AcceptGift_(O)221": "I hope this cake is as delicious as it is pretty! I love it! *giggle*$h#$e#$c 0.5#I wonder if I should share with Vincent and Miss Penny... The cake is pretty big.$u#I wonder if I should share with Shane and Aunt Marnie... The cake is pretty big.$u" //Pink Cake
+
+    }
+  }
+]}

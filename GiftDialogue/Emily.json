@@ -1,0 +1,48 @@
+/*Vanilla Abigail already has lines for the Parrot Egg trinket, Emerald, Aquamarine, Ruby, Amethyst, Topaz, and Jade.
+Coincidentally, they're exactly the kind of lines I wanted to write for her, which makes me think I have a good handle on
+her character. Actually, the gems ones are pretty elaborate, being 50/50 odds of choosing between two different lines.*/
+
+{"Changes": [
+
+    {
+      "Action": "EditData",
+      "Target": "Data/Buffs",
+      "Entries": {
+        "emily_yoba_blessing": {
+          "DisplayName": "Emily's Blessing", //Hard-coding it for now... sorry potential translators. keeping this bit here to remember the proper formatting -> [LocalizedText Strings\1_6_Strings:BlessingOfLuck]
+          "Description": null,
+          "IsDebuff": false,
+          "GlowColor": null,
+          "Duration": -2,
+          "MaxDuration": -1,
+          "IconTexture": "TileSheets\\BuffsIcons",
+          "IconSpriteIndex": 4,
+          "Effects": {
+            "FarmingLevel": 0.0,
+            "FishingLevel": 0.0,
+            "MiningLevel": 0.0,
+            "LuckLevel": 0.1,
+            "ForagingLevel": 0.0,
+            "MaxStamina": 0.0,
+            "MagneticRadius": 0.0,
+            "Speed": 0.0,
+            "Defense": 0.0,
+            "Attack": 0.0
+          },
+          "ActionsOnApply": null,
+          "CustomFields": null
+        }
+      }
+    },
+
+
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Emily",
+      "Entries": {
+        "AcceptGift_(O)72": "Can you feel it? The pure divine energy emanating from this gem? It is so wonderful...$h#$e#May Yoba bless you on this lovely day.$7#$action AddBuff emily_yoba_blessing", //Diamond
+        "AcceptGift_(O)74": "How wonderful... A cocktail of positive energy, flowing all around us! So this is the power of a Prismatic Shard...$h#$e#This'll brighten the vibes of our living room immensely!$h" //Prismatic Shard
+      }
+    }
+
+]}

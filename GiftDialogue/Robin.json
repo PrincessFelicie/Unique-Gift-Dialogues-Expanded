@@ -1,0 +1,15 @@
+/*Vanilla Robin has lines for Woodcutter's Weekly, and Woody's Secret. Can do better.*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Robin",
+
+    "Entries": {
+
+      "AcceptGift_(O)224": "Oh, this tomato sauce is just divine! Did you make this yourself, or buy it at the saloon? I'm fine with either, honestly! Thank you @!$h", //Spaghetti
+      "AcceptGift_(O)709": "Mahogany has such a premium feel to it... I can never have enough! Thanks, @!$h#$e#Speaking of, my desk is made of mahogany! That makes it nigh indestructible.", //Hardwood
+
+    }
+  }
+]}

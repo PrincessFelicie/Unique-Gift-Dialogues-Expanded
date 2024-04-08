@@ -1,0 +1,13 @@
+{
+
+  "Format": "2.0.2",   //This is the edition of Content Patcher needed to run your mod. When in doubt, use the latest edition.
+
+
+  "Changes": [
+    {
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Abigail.json,GiftDialogue/Alex.json,GiftDialogue/Caroline.json,GiftDialogue/Clint.json,GiftDialogue/Demetrius.json,GiftDialogue/Dwarf.json,GiftDialogue/Elliott.json,GiftDialogue/Emily.json,GiftDialogue/Evelyn.json,GiftDialogue/George.json,GiftDialogue/Gus.json,GiftDialogue/Haley.json,GiftDialogue/Harvey.json,GiftDialogue/Jas.json,GiftDialogue/Jodi.json,GiftDialogue/Kent.json,GiftDialogue/Krobus.json,GiftDialogue/Leah.json,GiftDialogue/Leo.json,GiftDialogue/LeoMainland.json,GiftDialogue/Lewis.json,GiftDialogue/Linus.json,GiftDialogue/Marnie.json,GiftDialogue/Maru.json,GiftDialogue/Pam.json,GiftDialogue/Penny.json,GiftDialogue/Pierre.json,GiftDialogue/Robin.json,GiftDialogue/Sam.json,GiftDialogue/Sandy.json,GiftDialogue/Sebastian.json,GiftDialogue/Shane.json,GiftDialogue/Vincent.json,GiftDialogue/Willy.json,GiftDialogue/Wizard.json"
+    }
+  ]
+
+}

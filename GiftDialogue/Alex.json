@@ -1,0 +1,15 @@
+/*Vanilla Alex already has lines for [Jack be Nimble], all other books, the Frog Egg trinket, the Parrot Egg trinket,
+Golden Egg, Dinosaur Egg, Ostrich Egg, Duck Egg, Void Egg, Field Snack, and all other eggs. So many eggs...*/
+
+{"Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Alex",
+
+    "Entries": {
+
+      "AcceptGift_(O)201": "Proteins and calories, the building blocks of champions! Thanks, @!$h#$e#Now... Let's dig in! *slurp* *munch* *munch* *gulp* Time! That's a new record!$h" //Complete Breakfast
+
+    }
+  }
+]}
