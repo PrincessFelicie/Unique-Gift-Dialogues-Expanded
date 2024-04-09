@@ -1,7 +1,7 @@
 {
   "Name": "Unique Gift Dialogues Expanded",
   "Author": "PrincessFelicie",
-  "Version": "0.0.1",
+  "Version": "0.1.1",
   "Description": "Adds new, custom reactions to NPCs upon being gifted specific gifts.",
   "UniqueID": "PrincessFelicie.UniqueGiftDialoguesExpanded",
   "UpdateKeys": ["Nexus:21501"],
