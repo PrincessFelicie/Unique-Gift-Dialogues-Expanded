@@ -8,7 +8,14 @@
     "Entries": {
 
       "AcceptGift_(O)84": "A frozen tear... It's so poetic to think about. What kind of tragedy is preserved inside?$h", //Frozen Tear
-
+      "AcceptGift_category_artisan_goods": "I'm not a \"loves cooking\" kind of person.", //All artisan goods
+      "AcceptGift_(O)428": "This is just going to gather dust somewhere...",//Cloth
+      "AcceptGift_category_egg": "Eggs... People must be joking when they say they like eggs, right? This is awful.", //All eggs (except void egg, who's vanilla line should take precedence?)
+      "AcceptGift_(O)395": "Thanks. I was feeling a little drowzy.", //Coffee
+      "AcceptGift_(O)614": "Thanks. I was feeling a little drowzy.", //Green Tea
+      "AcceptGift_(O)253": "Thanks. I was feeling a little drowzy.#$b#*siip* Woah! That packs more of a punch than I expected.$0", //Triple Shot Expresso
+      "AcceptGift_(O)306": "*urp* *gag* Sorry, just... Remembering something.#$e#Piece of advice: never get on the wrong side of an Abigail prank.", //Mayonnaise
+      "AcceptGift_(O)307": "*urp* *gag* Sorry, just... Remembering something.#$e#Piece of advice: never get on the wrong side of an Abigail prank.", //Duck Mayonnaise
     }
   }
 ]}
