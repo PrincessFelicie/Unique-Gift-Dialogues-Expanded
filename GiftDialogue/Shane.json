@@ -10,7 +10,7 @@
       "AcceptGift_(O)206": "I could never get tired of this! Thanks.", //Pizza
       /*"AcceptGift_(O)346": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#$action AddFriendshipPoints Shane -80#Sorry @, I'm trying to quit. [346]$0|$query LOCATION_NAME Here Saloon#You bought me a round? Thanks. Bottom's up!$h|Ah, I was just craving the thing! Perfect, thanks!$h", //Beer... If any player has seen Shane's 6 heart event, this should cancel out the friendship gain and refund the beer. (I'd like to take birthday into account, but I'm pretty sure the birthday line takes precedence... guess he's allowed a beer on that specific day) Else, a different line depending on whether Shane is currently at the saloon or not.
       I can't get this line to play well without the game crashing... I think stardew doesn't know how to interpret the nested $queries. Slightly less complex, crashless version below.*/
-      "AcceptGift_(O)346": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#$action AddFriendshipPoints Shane -80#Sorry @, I'm trying to quit. [346]$0|Ah, I was just craving the thing! Perfect, thanks!$h" //Beer, but no special line in the saloon.
+      "AcceptGift_(O)346": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#Sorry @, I'm trying to quit. [346]$0#$action AddFriendshipPoints Shane -80|Ah, I was just craving the thing! Perfect, thanks!$h" //Beer, but no special line in the saloon.
 
     }
   }
