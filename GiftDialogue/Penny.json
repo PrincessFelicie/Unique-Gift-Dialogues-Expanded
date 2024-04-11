@@ -7,11 +7,11 @@
 
     "Entries": {
 
-      "AcceptGift_(O)60": "This is my favorite gem! It's the same color as my eyes. Thanks.$h", //Emerald
-      "AcceptGift_alcohol_item": "I'm going to dump this in the nearest sink.$s", //All alcohols
-      "AcceptGift_(O)398": "All I can smell is wine...$s", //Grape
-      "AcceptGift_(O)304": "All I can smell is ale...$s", //Hops
-      "AcceptGift_(O)446": "Why would you do this to a poor bunny!?$a#$e#What do you mean they just shed limbs? That's the worst attempt at a lie I've ever heard.$a#$action AddFriendshipPoints Penny -20", //Rabbit's Foot
+      "AcceptGift_(O)60": "{{i18n:UGDE.Penny_(O)60}}", //Emerald
+      "AcceptGift_alcohol_item": "{{i18n:UGDE.Penny_alcohol_item}}", //All alcohols
+      "AcceptGift_(O)398": "{{i18n:UGDE.Penny_(O)398}}", //Grape
+      "AcceptGift_(O)304": "{{i18n:UGDE.Penny_(O)304}}", //Hops
+      "AcceptGift_(O)446": "{{i18n:UGDE.Penny_(O)446_1}}#$e#{{i18n:UGDE.Penny_(O)446_2}}#$action AddFriendshipPoints Penny -20", //Rabbit's Foot
 
     }
   }

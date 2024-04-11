@@ -7,9 +7,9 @@
 
     "Entries": {
 
-      "AcceptGift_category_cooking": "Trying out cooking? Maybe you, Gus and I should swap recipes...$h#$e#There's no better path to a hefty cookbook than befriending people, if you ask me.#$b# Everybody's got a recipe or two they share with friends!$h", //Cooking recipes
-      "AcceptGift_(O)265": "No thank you.[265]$s", //Seafoam Pudding
-      "AcceptGift_(O)203": "Isn't that Gus's...?$4#$b#Oh, it is. Blech...$s#$e#Not every experiment comes to fruition, let's say...", //Strange Bun
+      "AcceptGift_category_cooking": "{{i18n:UGDE.Jodi_category_cooking}}", //Cooking recipes
+      "AcceptGift_(O)265": "{{i18n:UGDE.Jodi_(O)265}}[265]$s", //Seafoam Pudding
+      "AcceptGift_(O)203": "{{i18n:UGDE.Jodi_(O)203}}", //Strange Bun
 
     }
   }

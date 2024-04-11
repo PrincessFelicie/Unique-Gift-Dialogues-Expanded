@@ -7,9 +7,9 @@
 
     "Entries": {
 
-      "AcceptGift_(O)725": "Resin! An excellent natural sealant and adhesive. Really useful for building all kinds of gadgets. Thanks!$h", //Oak Resin
-      "AcceptGift_(O)726": "This is perfect for an outdoorsy project I've been tinkering with! Thanks!$h#$e#Pine Tar is perfectly suited to protecting wood from all kinds of mold and insects. Very useful for fine machinery!", //Pine Tar
-      "AcceptGift_(O)233": "Thank for the ice cream! That's sweet of you.$h#$e#%revealtasteDemetrius233 I don't think you could find a bigger fan of ice cream than my Dad around here.$h#$b#%revealtasteHarvey233 Dr. Harvey likes to watch his sugar intake, though.", //Ice Cream
+      "AcceptGift_(O)725": "{{i18n:UGDE.Maru_(O)725}}", //Oak Resin
+      "AcceptGift_(O)726": "{{i18n:UGDE.Maru_(O)726}}", //Pine Tar
+      "AcceptGift_(O)233": "{{i18n:UGDE.Maru_(O)233_1}}#$e#%revealtasteDemetrius233 {{i18n:UGDE.Maru_(O)233_2}}#$b#%revealtasteHarvey233 {{i18n:UGDE.Maru_(O)233_3}}", //Ice Cream
 
     }
   }

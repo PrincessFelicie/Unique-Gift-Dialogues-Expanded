@@ -8,7 +8,7 @@ SVE also gives him a few gift lines: Void Essence, Purple Mushrooms, and a coupl
 
     "Entries": {
 
-      "AcceptGift_(O)155": "Ah, the humble Super Cucumber. One of the few magically enhanced creatures roaming this land... The lining of its stomach makes for an excellent potion canteen once tanned. I thank you.", //Super Cucumber
+      "AcceptGift_(O)155": "{{i18n:UGDE.Wizard_(O)155}}", //Super Cucumber
 
     }
   }

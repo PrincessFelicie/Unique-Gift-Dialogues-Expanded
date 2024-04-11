@@ -7,7 +7,7 @@
 
     "Entries": {
 
-      "AcceptGift_(O)221": "Of course you'd know my favorite, who doesn't? It's not like I keep it a secret, hehe! Thanks!$h" //Pink Cake
+      "AcceptGift_(O)221": "{{i18n:UGDE.Haley_(O)221}}", //Pink Cake
 
     }
   }

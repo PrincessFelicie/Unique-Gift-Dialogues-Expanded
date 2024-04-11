@@ -7,7 +7,7 @@
 
     "Entries": {
 
-      "AcceptGift_(O)202": "*munch munch* Yum! Delicious! Tastes just like my wife's...$h#$b# Did she give you the recipe? Please, keep them coming!$h", //Fried Calamari
+      "AcceptGift_(O)202": "{{i18n:UGDE.Pierre_(O)202}}", //Fried Calamari
 
     }
   }

@@ -7,10 +7,10 @@
 
     "Entries": {
 
-      "AcceptGift_(O)207": "A healthy source of carbohydrates, and delicious to boot! What isn't there to love? Thank you!$h#$e#Truth be told, my other favorites are on the dessert side...", //Bean Hotpot
-      "AcceptGift_(O)233": "How wonderful! I should probably devour this before it melts. *sluuurp sluuurp*#$e#It's healthy to let your inner child out sometimes. For me, ice cream does it without fail.", //Ice Cream
-      "AcceptGift_(O)232": "A homemade Rice Pudding! I love the creamy and chewy texture of this dessert.#$e#From what I have observed, most people care only about the taste of their food, but texture is equally important to me.", //Rice Pudding
-      "AcceptGift_(O)400": "Did you grow these on your farm? They look ripe and delicious!$h#$e#%revealtasteMaru400 The mineral makeup of the valley is especially conducive to the growth of strawberries. Maru is just as fond of them as me.", //Strawberry
+      "AcceptGift_(O)207": "{{i18n:UGDE.Demetrius_(O)207}}", //Bean Hotpot
+      "AcceptGift_(O)233": "{{i18n:UGDE.Demetrius_(O)233}}", //Ice Cream
+      "AcceptGift_(O)232": "{{i18n:UGDE.Demetrius_(O)232}}", //Rice Pudding
+      "AcceptGift_(O)400": "{{i18n:UGDE.Demetrius_(O)400_1}}#$e#%revealtasteMaru400{{i18n:UGDE.Demetrius_(O)400_2}}", //Strawberry
 
     }
   }

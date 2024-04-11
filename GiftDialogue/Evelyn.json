@@ -1,3 +1,5 @@
+/*Vanilla Evelyn has a line for Broken Glasses, and Beach forage items.*/
+
 {"Changes": [
   {
     "Action": "EditData",
@@ -5,9 +7,10 @@
 
     "Entries": {
 
-      "AcceptGift_(O)20": "%revealtasteGeorge20 Thank you, dear. Give this to George next time, I know he would enjoy it very much.",//Leek
-      "AcceptGift_category_flowers": "Ah, don't they smell lovely...! I will find a lovely vase to put them in. Thanks, dear.$h", //All flowers not specified elsewhere, like modded ones.
-      "AcceptGift_(O)595": "Oh my, I wouldn't mind a little visit from a friendly fairy! Maybe this will be just what I need to invite one over tea...$h#$e#I spotted one near your farm once, when I was much younger. Of course, it was your grandfather's at the time..." //Fairy Rose
+      "AcceptGift_(O)20": "%revealtasteGeorge20 {{i18n:UGDE.Evelyn_(O)20}}",//Leek
+      "AcceptGift_category_flowers": "{{i18n:UGDE.Evelyn_category_flowers}}", //All flowers not specified elsewhere, like modded ones.
+      "AcceptGift_(O)595": "{{i18n:UGDE.Evelyn_(O)595}}" //Fairy Rose
+
     }
   }
 ]}

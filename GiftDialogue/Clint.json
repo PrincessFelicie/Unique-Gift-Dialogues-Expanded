@@ -7,19 +7,19 @@
 
     "Entries": {
 
-      "AcceptGift_category_gem": "Huh. Quality gem. You've got a good eye for mining, @.", //All gems not specified elsewhere, like geode and modded ones.
-      "AcceptGift_(O)60": "That's a nice looking Emerald. I could make a fetching ring out of that... You're securing my profits for this week with that, @. Thanks!$h#$e#The adventurer's guild regularly commissions me for rings, if you were wondering where they were coming from. Do they even do anything?", //Emerald
-      "AcceptGift_(O)62": "An Aquamarine! You know, despite the name, the only thing they've got in common with the sea is the color. Thanks, @.$h", //Aquamarine
-      "AcceptGift_(O)64": "Hmm... Yep, that's an authentic Ruby! Pretty, and valuable! Thank you, @!$h", //Ruby
-      "AcceptGift_(O)66": "You're just giving me an Amethyst? ...Thanks, @.$h#$e#I like working with Amethysts, it's a pleasant challenge to shape. Not too hard, not too easy.", //Amethyst
-      "AcceptGift_(O)68": "A Topaz! The bread and butter of gemsmithing. It's sure to sell fast. Thanks!$h#$e#I know the proper term is jewelry making, but gemsmithing has a nicer ring to it, don't you agree?", //Topaz
-      "AcceptGift_(O)70": "Ah, a piece of Jade! It's a favorite of miners, which means an easy sale for me, heheh!$h#$e#I heard about these new Crystalariums... Apparently, Jades are one of the most duplicated gems. Careful these machines don't put you out of a job, @.", //Jade
-      "AcceptGift_(O)72": "A diamond!? Oh boy... Don't misunderstand, I'm grateful, they're just so hard to work with... Thank you, @.$s", //Diamond
-      "AcceptGift_(O)74": "Is that a Prismatic Shard!? Never thought I'd see one this close...! I don't know what to say, thank you @!$h#$e#I wish I had a tidbit for you, but these are genuinely so rare. I don't know what I'll even make with that one!$h", //Prismatic Shard
-      "AcceptGift_(O)Book_Friendship": "What is that supposed to mean? Rude.$a#$b#Wait... Are you just looking out for me? ...Okay, I'll read it. Maybe this can help me with... Never mind. Thanks, @.", //Friendship 101
-      "AcceptGift_furnace_item": "You got a good handle on those furnaces of yours. I always welcome more raw material to work with!", //All furnace items except the ones below (e.g. copper bar, iron bar, golf bar, iri bar, and modded items)
-      "AcceptGift_(O)910": "What is wrong with you!? Are you trying to irradiate us all to death!? Get that out of my forge immediately![910]$3", //Radioactive Bar
-      "AcceptGift_(O)338": "I can find an use or two for this. Thanks.#$e#Quartz has many interesting properties that make it very versatile, but it's pretty affordable. Still, a gift's a gift." //Refined Quartz
+      "AcceptGift_category_gem": "{{i18n:UGDE.Clint_category_gem}}", //All gems not specified elsewhere, like geode and modded ones.
+      "AcceptGift_(O)60": "{{i18n:UGDE.Clint_(O)60}}", //Emerald
+      "AcceptGift_(O)62": "{{i18n:UGDE.Clint_(O)62}}", //Aquamarine
+      "AcceptGift_(O)64": "{{i18n:UGDE.Clint_(O)64}}", //Ruby
+      "AcceptGift_(O)66": "{{i18n:UGDE.Clint_(O)66}}", //Amethyst
+      "AcceptGift_(O)68": "{{i18n:UGDE.Clint_(O)68}}", //Topaz
+      "AcceptGift_(O)70": "{{i18n:UGDE.Clint_(O)70}}", //Jade
+      "AcceptGift_(O)72": "{{i18n:UGDE.Clint_(O)72}}", //Diamond
+      "AcceptGift_(O)74": "{{i18n:UGDE.Clint_(O)74}}", //Prismatic Shard
+      "AcceptGift_(O)Book_Friendship": "{{i18n:UGDE.Clint_(O)Book_Friendship}}", //Friendship 101
+      "AcceptGift_furnace_item": "{{i18n:UGDE.Clint_furnace_item}}", //All furnace items except the ones below (e.g. copper bar, iron bar, golf bar, iri bar, and modded items)
+      "AcceptGift_(O)910": "{{i18n:UGDE.Clint_(O)910}}[910]$3", //Radioactive Bar
+      "AcceptGift_(O)338": "{{i18n:UGDE.Clint_(O)338}}" //Refined Quartz
 
     }
   }

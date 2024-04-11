@@ -8,9 +8,8 @@ Bone Flute, Amethyst, Magic Rock Candy.*/
 
     "Entries": {
 
-      "AcceptGift_(O)306": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?$h#$e#%revealtasteCaroline306 %revealtasteCaroline307 I ate mayo straight out of the jar once to prank my mom... I don't think she ever recovered!$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307 Then I did it again with Sam and Sebastian. Good times.#$b#So who do you think I should scare next?$h", //Mayonnaise
-      "AcceptGift_(O)307": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?$h#$e#%revealtasteCaroline306 %revealtasteCaroline307 I ate mayo straight out of the jar once to prank my mom... I don't think she ever recovered!$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307 Then I did it again with Sam and Sebastian. Good times.#$b#So who do you think I should scare next?$h", //Duck Mayonnaise
-
+      "AcceptGift_(O)306": "{{i18n:UGDE.Abigail_Mayo1}}$h#$e#%revealtasteCaroline306 %revealtasteCaroline307{{i18n:UGDE.Abigail_Mayo2}}$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307{{i18n:UGDE.Abigail_Mayo3}}$h", //Mayonnaise
+      "AcceptGift_(O)307": "{{i18n:UGDE.Abigail_Mayo1}}$h#$e#%revealtasteCaroline306 %revealtasteCaroline307{{i18n:UGDE.Abigail_Mayo2}}$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307{{i18n:UGDE.Abigail_Mayo3}}$h", //Duck Mayonnaise
     }
   }
 ]}

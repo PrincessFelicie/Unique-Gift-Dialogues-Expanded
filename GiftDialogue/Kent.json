@@ -7,8 +7,8 @@
 
     "Entries": {
 
-      "AcceptGift_category_cooking": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man who's favorite food isn't their spouse's cooking. Tip from a soldier.", //Cooking recipes
-      "AcceptGift_(O)607": "This brings back good memories... Thanks.$h#$e#I used to make these myself when I was a kid, playing in the forest.$h#$b# I'd start a campfire like I was taught and roast them over an open flame.$h#$b#I took fire safety very seriously, and always triple-checked that I'd doused it properly.$5#$e#That meticulous attitude ended up saving my life on the battlefield...$2#$b#Don't tell Jodi I said that.$0"//Roasted Hazelnuts
+      "AcceptGift_category_cooking": "{{i18n:UGDE.Kent_category_cooking}}", //Cooking recipes
+      "AcceptGift_(O)607": "{{i18n:UGDE.Kent_(O)607_1}}#$e#{{i18n:UGDE.Kent_(O)607_2}}#$e#{{i18n:UGDE.Kent_(O)607_3}}"//Roasted Hazelnuts
 
     }
   }

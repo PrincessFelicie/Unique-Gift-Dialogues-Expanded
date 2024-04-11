@@ -9,7 +9,7 @@ her character. The gems ones are even pretty elaborate, being 50/50 odds of choo
       "Target": "Data/Buffs",
       "Entries": {
         "emily_yoba_blessing": {
-          "DisplayName": "Emily's Blessing", //Hard-coding it for now... sorry potential translators. keeping this bit here to remember the proper formatting -> [LocalizedText Strings\1_6_Strings:BlessingOfLuck]
+          "DisplayName": "{{i18n:UGDE.EmilyBlessingName}}",
           "Description": null,
           "IsDebuff": false,
           "GlowColor": null,
@@ -40,8 +40,8 @@ her character. The gems ones are even pretty elaborate, being 50/50 odds of choo
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "AcceptGift_(O)72": "Can you feel it? The pure divine energy emanating from this gem? It is so wonderful...$h#$e#May Yoba bless you on this lovely day.$7#$action AddBuff emily_yoba_blessing", //Diamond
-        "AcceptGift_(O)74": "How wonderful... A cocktail of positive energy, flowing all around us! So this is the power of a Prismatic Shard...$h#$e#This'll brighten the vibes of our living room immensely!$h" //Prismatic Shard
+        "AcceptGift_(O)72": "{{i18n:UGDE.Emily_(O)72}}#$action AddBuff emily_yoba_blessing", //Diamond
+        "AcceptGift_(O)74": "{{i18n:UGDE.Emily_(O)74}}" //Prismatic Shard
       }
     }
 

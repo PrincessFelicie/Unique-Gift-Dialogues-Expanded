@@ -8,7 +8,8 @@ Pretty much knocked out all the easy ones.*/
 
     "Entries": {
 
-      "AcceptGift_(O)221": "I hope this cake is as delicious as it is pretty! I love it! *giggle*$h#$e#$c 0.5#I wonder if I should share with Vincent and Miss Penny... The cake is pretty big.$u#I wonder if I should share with Shane and Aunt Marnie... The cake is pretty big.$u" //Pink Cake
+      "AcceptGift_(O)221": "{{i18n:UGDE.Jas_Cake_1}}#$e#$c 0.5#{{i18n:UGDE.Jas_Cake_2a}}#{{i18n:UGDE.Jas_Cake_2b}}", //Pink Cake
+      "AcceptGift_(O)220": "{{i18n:UGDE.Jas_Cake_1}}#$e#$c 0.5#{{i18n:UGDE.Jas_Cake_2a}}#{{i18n:UGDE.Jas_Cake_2b}}", //Chocolate Cake
 
     }
   }

@@ -8,11 +8,11 @@ Mutant Carp and Gold Bar. That's a lot for a townie.*/
 
     "Entries": {
 
-      "AcceptGift_fish_difficulty_easy": "Well done! Catch a few more of these and we might have a meal.", //Fishes difficulty 33 and under
-      "AcceptGift_fish_difficulty_medium": "Well caught, lad. Keep at it!^Well caught, miss. Keep at it!", //Fishes 34-66
-      "AcceptGift_fish_difficulty_hard": "A mighty fine catch if I do say so meself! Looks like you've got the hang of that rod o' yours.$h", //Fishes 67-100
-      "AcceptGift_fish_difficulty_extremely_hard": "What a beast... And yer giving this to me? Thanks, lad. I'll try smokin' it and see how it tastes.^What a beast... And yer giving this to me? Thanks, miss. I'll try smokin' it and see how it tastes.", //effectively only the legend and its successor, and maybe some modded fish. For some reason, he's only neutral about it.
-      "AcceptGift_(O)143": "Me first ever catch was one o' these! T'was beginner's luck, but it inspired me to take the life I chose...#$e#*sniff* And now ye got this ol' sailor reminiscin'..." //Catfish
+      "AcceptGift_fish_difficulty_easy": "{{i18n:UGDE.Willy_EasyFish}}", //Fishes difficulty 33 and under
+      "AcceptGift_fish_difficulty_medium": "{{i18n:UGDE.Willy_MediumFish}}", //Fishes 34-66
+      "AcceptGift_fish_difficulty_hard": "{{i18n:UGDE.Willy_HardFish}}", //Fishes 67-100
+      "AcceptGift_fish_difficulty_extremely_hard": "{{i18n:UGDE.Willy_VeryHardFish}}", //effectively only the legend and its successor, and maybe some modded fish. For some reason, he's only neutral about it.
+      "AcceptGift_(O)143": "{{i18n:UGDE.Willy_(O)143}}" //Catfish
 
     }
   }

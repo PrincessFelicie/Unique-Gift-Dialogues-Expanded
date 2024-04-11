@@ -7,7 +7,7 @@
 
     "Entries": {
 
-      "AcceptGift_(O)395": "I can't start the day without one... Ah, and this one smells fantastic!$h#$e#I usually drink coffee black, but I'm not against adding milk when my diet gets low on calcium." //Coffee
+      "AcceptGift_(O)395": "{{i18n:UGDE.Harvey_(O)395}}", //Coffee
 
     }
   }

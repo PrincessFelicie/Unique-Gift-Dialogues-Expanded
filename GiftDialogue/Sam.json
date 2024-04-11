@@ -7,9 +7,9 @@
 
     "Entries": {
 
-      "AcceptGift_(O)90": "Aw yea, you brought me back a prickly pear? You're the best, @!", //Cactus Fruit
-      "AcceptGift_(O)306": "No... Not again... Noooo!!!$8", //Mayonnaise
-      "AcceptGift_(O)307": "No... Not again... Noooo!!!$8", //Duck Mayonnaise
+      "AcceptGift_(O)90": "{{i18n:UGDE.Sam_(O)90}}", //Cactus Fruit
+      "AcceptGift_(O)306": "{{i18n:UGDE.Sam_Mayo}}", //Mayonnaise
+      "AcceptGift_(O)307": "{{i18n:UGDE.Sam_Mayo}}", //Duck Mayonnaise
 
     }
   }

@@ -7,8 +7,8 @@
 
     "Entries": {
 
-      "AcceptGift_(O)88": "You braved the heat outside to bring me this? Thanks! Coconut juice is just delish~$h", //Coconut
-      "AcceptGift_(O)90": "Thank you! It's just what I need on a hot day like this.#$e#I know I could find some right outside, but I prefer to stay here, where the air conditioner is.", //Cactus Fruit
+      "AcceptGift_(O)88": "{{i18n:UGDE.Sandy_(O)88}}", //Coconut
+      "AcceptGift_(O)90": "{{i18n:UGDE.Sandy_(O)90}}", //Cactus Fruit
 
     }
   }
