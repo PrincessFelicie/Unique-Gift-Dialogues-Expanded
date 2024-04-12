@@ -12,6 +12,7 @@ This version of Leo's dialogue sheet has a line for the Parrot Egg trinket.*/
       "AcceptGift_(O)395": "{{i18n:UGDE.Leo_(O)395}}", //Coffee
       "AcceptGift_(O)253": "{{i18n:UGDE.Leo_(O)253}}", //Triple-Shot Expresso
       "AcceptGift_(O)444": "{{i18n:UGDE.Leo_(O)444}}", //Duck Feather
+      //TODO Nautilus Shell
 
     }
   }

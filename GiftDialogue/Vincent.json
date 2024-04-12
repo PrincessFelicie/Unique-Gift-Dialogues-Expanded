@@ -9,6 +9,8 @@
 
       "AcceptGift_(O)221": "{{i18n:UGDE.Vincent_Cake}}", //Pink Cake
       "AcceptGift_(O)220": "{{i18n:UGDE.Vincent_Cake}}", //Chocolate Cake
+      "AcceptGift_(O)398": "{{i18n:UGDE.Vincent_(O)398_1}}#$e#%revealtastePenny398 {{i18n:UGDE.Vincent_(O)398_2}}", //Grape
+      "AcceptGift_Raisins": "{{i18n:UGDE.Vincent_Raisins}}", //Raisins... In case that wasn't obvious
 
     }
   }

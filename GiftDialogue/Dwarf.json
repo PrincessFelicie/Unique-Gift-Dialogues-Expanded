@@ -14,6 +14,7 @@
       "AcceptGift_(O)97": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll2_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll2_nth}}", //Dwarf Scroll II
       "AcceptGift_(O)98": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll3_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll3_nth}}", //Dwarf Scroll III
       "AcceptGift_(O)99": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll4_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll4_nth}}", //Dwarf Scroll IV
+      //TODO Cave Carrot
 
     }
   }

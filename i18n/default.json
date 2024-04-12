@@ -61,13 +61,15 @@
     "UGDE.Evelyn_(O)20": "Thank you, dear. Give this to George next time, I know he would enjoy it very much.",
     "UGDE.Evelyn_category_flowers": "Ah, don't they smell lovely...! I will find a matching vase to put them in. Thank you, dear.$h",
     "UGDE.Evelyn_(O)595": "Oh my, I wouldn't mind a little visit from a friendly fairy! Maybe this will be just what I need to invite one over tea...$h#$e#I spotted one near your farm once, when I was much younger. Of course, it was your grandfather's at the time...",
+    "UGDE.Evelyn_Raisins_1": "These taste just wonderful, my dear! Good old %farm Farm raisins... How I missed the taste.$h",
+    "UGDE.Evelyn_Raisins_2": "Your grandfather used to make so many of these ahead of any harvest, more than I could ever buy from him.#$b#I must not have been the only raisin lover in the Valley... *wink*",
 
     //George
     "UGDE.George_(O)20": "*sniff sniff* That amazing smell... Did she put you up to this? Bah, this is great either way!$h",
     "UGDE.George_(O)205": "Now that takes me back... You know how to make an old man happy. Eaten my fair share of these back in the day!$h#$e#The wife doesn't do fried foods these days... Says it's bad for my heart.#$b#But I'll go out how I darn please if it means with a smile on my face!$h",
 
     //Gus
-    "UGDE.Gus_(O)72": "Ah! So you noticed my bear's missing eye? This'll make a perfect replacement, @!$h",
+    "UGDE.Gus_(O)72": "Ah! So you noticed my bear's missing eye? This will make a perfect replacement, @!$h",
     "UGDE.Gus_(O)265_1": "How does the smell *taste* inky...?$s",
     "UGDE.Gus_(O)265_2": "I'm not sure how Willy can eat this stuff, but he looks forward to the moonlight jellies every year thanks to it.",
     "UGDE.Gus_(O)203_1": "Ah... my worst mistake. I was hoping its recipe hadn't spread...$s",
@@ -102,6 +104,7 @@
     //Krobus
     "UGDE.Krobus_(O)203": "May I...? *munch munch* Oh wow... Is this really human cuisine? I've never tasted anything more delicious!$h#$e#Most of your people's cooking has disappointed me, but this is an exception.",
     "UGDE.Krobus_(O)265": "It kind of smells like the sewers, but... better. Thank you.",
+    "UGDE.Krobus_(O)16": "This has such a soft, sweet taste! I love it!$h",
 
     //Leah
     "UGDE.Leah_(O)348": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of wine at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
@@ -182,8 +185,8 @@
     "UGDE.Sebastian_category_artisan_goods": "I'm not a \"loves cooking\" kind of person.",
     "UGDE.Sebastian_(O)428": "This is just going to gather dust somewhere...",
     "UGDE.Sebastian_category_egg": "Eggs... People must be joking when they say they like eggs, right? This is awful.",
-    "UGDE.Sebastian_Coffee&Tea": "Thanks. I was feeling a little drowzy.",
-    "UGDE.Sebastian_(O)253": "Thanks. I was feeling a little drowzy.#$b#*siip* Woah! That packs more of a punch than I expected.$0",
+    "UGDE.Sebastian_Coffee&Tea": "Thanks. I was feeling a little drowsy.",
+    "UGDE.Sebastian_(O)253": "Thanks. I was feeling a little drowsy.#$b#*siip* Woah! That packs more of a punch than I expected.$0",
     "UGDE.Sebastian_Mayo": "*urp* *gag* Sorry, just... Remembering something.#$e#Piece of advice: never get on the wrong side of an Abigail prank.",
 
     //Shane
@@ -193,6 +196,9 @@
 
     //Vincent
     "UGDE.Vincent_Cake": "Wow, it's so big! I don't have to share, do I?$h#$b#Well it's *my* cake, so *I* get to choose what I do with it.",
+    "UGDE.Vincent_(O)398_1": "I love grapes! They're the best fruit ever! Thanks, mister farmer!^I love grapes! They're the best fruit ever! Thanks, miss farmer!",
+    "UGDE.Vincent_(O)398_2": "Dad and I, we always go collect grapes together in Summer...#$b#Last year, I tried to give one to miss Penny.#$b#She made the same face as that time I found a cool slug on the way to class.$h",
+    "UGDE.Vincent_Raisins": "What happened to those grapes? They're so tiny. *chew chew*$0#$b#...*ptooey*$s#$e#%Vincent looks so disappointed he might cry.",
 
     //Willy
     "UGDE.Willy_EasyFish": "Well done! Catch a few more of these and we might have a meal.",
