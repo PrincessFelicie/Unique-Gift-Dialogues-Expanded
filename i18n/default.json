@@ -80,7 +80,9 @@
     "UGDE.Gus_(O)213_2": "I wouldn't recommend gifting one to Emily. It could be a fish allergy? I'm not sure...#$b#I've seen her turn up her nose at more than a few fish-based dishes.",
 
     //Haley
-    "UGDE.Haley_(O)221": "Of course you'd know my favorite, who doesn't? It's not like I keep it a secret, hehe! Thanks!$h",
+    "UGDE.Haley_(O)221_early": "Is this the Queen of Sauce's famous pink cake? I've been dying for another bite for so long! Thanks!$h#$e#I sent a letter to the show asking for the recipe, but they must be backed up...",
+    "UGDE.Haley_(O)221_year2NoRecipe": "Is this the Queen of Sauce's famous pink cake? So you caught the episode too, then!$h#$e#What? ...No? Well, lucky you, I taped it! Here.",
+    "UGDE.Haley_(O)221_year2RecipeKnown": "Ah... Who would've guessed that amazing flavor was melon? The Queen of Sauce's recipes are always high quality. Thanks!",
 
     //Harvey
     "UGDE.Harvey_(O)395": "I can't start the day without one... Ah, and this one smells fantastic!$h#$e#I usually drink coffee black, but I'm not against adding milk when I need calcium.",
