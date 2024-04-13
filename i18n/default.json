@@ -48,6 +48,10 @@
     "UGDE.Dwarf_Scroll3_nth": "This scroll explains that our ancestors built a massive ship capable of transporting millions.#$b#They sought to leave no one behind, but time was against them.#$b#Eventually, they departed, starting a long voyage in search of a new home.",
     "UGDE.Dwarf_Scroll4_1st": "It says that our people's voyage came to an end rather abruptly.#$b#They weren't intending on settling in an already inhabited land, but their ship was irreparably damaged during the landing.#$b#Most of our records were lost in the crash... Oral lore could only preserve so much.#$b#With no other choice, our people settled underground, rebuilding our lives anew.",
     "UGDE.Dwarf_Scroll4_nth": "This scroll says that our people's voyage came to an end rather abruptly.#$b#They weren't intending on settling in an already inhabited land, but their ship was irreparably damaged during the landing.#$b#Most of our records were lost in the crash... Oral lore could only preserve so much.#$b#With no other choice, our people settled underground, rebuilding our lives anew.",
+    "UGDE.Dwarf_(O)78_Tuesday": "Heard me muttering earlier, I see... Did you bring one back just for me? That's very kind, human.",
+    "UGDE.Dwarf_(O)78_NotTuesday": "A cave carrot! I could eat these every day. Thanks.",
+    "UGDE.Dwarf_Carrot": "Is this a surface carrot? I didn't expect it to be so... orange.",
+
 
     //Elliott
     "UGDE.Elliott_(O)715": "A beautiful lobster! Visualize it grilled over a campfire... Tonight, I shall enjoy a crustacean feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.",
@@ -82,7 +86,7 @@
     //Haley
     "UGDE.Haley_(O)221_early": "Is this the Queen of Sauce's famous pink cake? I've been dying for another bite for so long! Thanks!$h#$e#I sent a letter to the show asking for the recipe, but they must be backed up...",
     "UGDE.Haley_(O)221_year2NoRecipe": "Is this the Queen of Sauce's famous pink cake? So you caught the episode too, then!$h#$e#What? ...No? Well, lucky you, I taped it! Here.",
-    "UGDE.Haley_(O)221_year2RecipeKnown": "Ah... Who would've guessed that amazing flavor was melon? The Queen of Sauce's recipes are always high quality. Thanks!",
+    "UGDE.Haley_(O)221_year2RecipeKnown": "Ah... Who would've guessed that amazing flavor was melon? The Queen of Sauce's recipes are always delicious.$h#$b#Did you see the moment when she read my letter?$h",
 
     //Harvey
     "UGDE.Harvey_(O)395": "I can't start the day without one... Ah, and this one smells fantastic!$h#$e#I usually drink coffee black, but I'm not against adding milk when I need calcium.",
@@ -193,8 +197,13 @@
 
     //Shane
     "UGDE.Shane_(O)206": "I could never get tired of pizza! Thanks.",
-    "UGDE.Shane_(O)346_Above6hearts": "Sorry @, I'm trying to quit.$0",
+    "UGDE.Shane_(O)Alcohol_Item_Above6hearts": "Sorry @, I'm trying to quit.$0",
     "UGDE.Shane_(O)346_Under6Hearts": "Ah, I was just craving a good beer! Perfect, thanks!$h",
+    "UGDE.Shane_(O)459_Under6Hearts": "Pretty neat how many things we've learned to turn into alcohol. Thanks.",
+    "UGDE.Shane_(O)873_Under6Hearts": "Coconut, pineapple and rum, you can't get more Ginger Island than that. Unless you wanted to put ginger in there, I guess.",
+    "UGDE.Shane_(O)348_Under6Hearts": "Don't worry about getting me a fancy glass, I can drink from the bottle. Thanks for the wine.",
+    "UGDE.Shane_(O)303_Under6Hearts_1": "I prefer regular beer, but I guess that'll mix things up a bit. Thanks.",
+    "UGDE.Shane_(O)303_Under6Hearts_2": "Pam is always talking Gus's ear off about adding pale ale to the taps at the saloon. It's annoying, frankly.",
 
     //Vincent
     "UGDE.Vincent_Cake": "Wow, it's so big! I don't have to share, do I?$h#$b#Well it's *my* cake, so *I* get to choose what I do with it.",

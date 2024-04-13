@@ -15,7 +15,7 @@
       "DaysPlayed": "161", //After Year 2 Summer 21, change the Pink Cake line.
     },
     "Entries": {
-      "AcceptGift_(O)221": "$query !PLAYER_HAS_COOKING_RECIPE Current Pink Cake {{i18n:UGDE.Haley_(O)221_year2NoRecipe}}#$action MarkCookingRecipeKnown Current Pink Cake|{{i18n:UGDE.Haley_(O)221_year2RecipeKnown}}", //Pink Cake, after the episode has aired
+      "AcceptGift_(O)221": "$query !PLAYER_HAS_COOKING_RECIPE Current \"Pink Cake\" {{i18n:UGDE.Haley_(O)221_year2NoRecipe}}#$action MarkCookingRecipeKnown Current \"Pink Cake\"|{{i18n:UGDE.Haley_(O)221_year2RecipeKnown}}", //Pink Cake, after the episode has aired
     }
   }
 ]}
