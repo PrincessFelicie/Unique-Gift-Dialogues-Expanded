@@ -18,9 +18,9 @@
     "UGDE.Clint_(O)60": "That's a nice looking emerald. I could make a fetching ring out of that... You're securing my profits for this week with that, @. Thanks!$h#$e#The adventurer's guild regularly commissions me for rings, if you were wondering where they were coming from. Do they even do anything?",
     "UGDE.Clint_(O)62": "An aquamarine! You know, despite the name, the only thing they've got in common with the sea is the color. Thanks, @.$h",
     "UGDE.Clint_(O)64": "Hmm... Yep, that's an authentic ruby! Pretty, and valuable! Thank you, @!$h",
-    "UGDE.Clint_(O)66": "You're just giving me an amethyst? ...Thanks, @.$h#$e#I like working with Amethysts, it's a pleasant challenge to shape. Not too hard, not too easy.",
+    "UGDE.Clint_(O)66": "You're just giving me an amethyst? ...Thanks, @.$h#$e#I like working with amethysts, it's a pleasant challenge to shape. Not too hard, not too easy.",
     "UGDE.Clint_(O)68": "A topaz! The bread and butter of gemsmithing. It's sure to sell fast. Thanks!$h#$e#I know the proper term is jewelry making, but gemsmithing has a nicer ring to it, don't you agree?",
-    "UGDE.Clint_(O)70": "Ah, a piece of jade! It's a favorite of miners, which means an easy sale for me, heheh!$h#$e#I heard about these new Crystalariums... Apparently, jades are one of the most duplicated gems. Careful these machines don't put you out of a job, @.",
+    "UGDE.Clint_(O)70": "Ah, a piece of jade! It's a favorite of miners, which means an easy sale for me, heheh!$h#$e#I heard about these new crystalariums... Apparently, jades are one of the most duplicated gems. Careful these machines don't put you out of a job, @.",
     "UGDE.Clint_(O)72": "A diamond!? Oh boy... Don't misunderstand, I'm grateful, they're just so hard to work with... Thank you, @.$s",
     "UGDE.Clint_(O)74": "Is that a prismatic shard!? Never thought I'd see one this close...! I don't know what to say, thank you @!$h#$e#I wish I had a tidbit for you, but these are genuinely so rare. I don't know what I'll even make with that one!$h",
     "UGDE.Clint_(O)Book_Friendship": "What is that supposed to mean? Rude.$a#$b#Wait... Are you just looking out for me? ...Okay, I'll read it. Maybe this can help me with... Never mind. Thanks, @.",
@@ -31,8 +31,8 @@
     //Demetrius
     "UGDE.Demetrius_(O)207": "A healthy source of carbohydrates, and delicious to boot! What isn't there to love? Thank you!$h#$e#Truth be told, my other favorites are on the dessert side...",
     "UGDE.Demetrius_(O)233": "How wonderful! I should probably devour this before it melts. *sluuurp sluuurp*#$e#It's healthy to let your inner child out sometimes. For me, ice cream does it without fail.",
-    "UGDE.Demetrius_(O)232": "A homemade Rice Pudding! I love the creamy and chewy texture of this dessert.#$e#From what I have observed, most people care only about the taste of their food, but texture is equally important to me.",
-    "UGDE.Demetrius_(O)400_1": "Did you grow these on your farm? They look ripe and delicious!$h#$e#%revealtasteMaru400 The mineral makeup of the valley is especially conducive to the growth of strawberries. Maru is just as fond of them as me.",
+    "UGDE.Demetrius_(O)232": "A homemade rice pudding! I love the creamy and chewy texture of this dessert.#$e#From what I have observed, most people care only about the taste of their food, but texture is equally important to me.",
+    "UGDE.Demetrius_(O)400_1": "Did you grow these on your farm? They look ripe and delicious!$h",
     "UGDE.Demetrius_(O)400_2": "The mineral makeup of the valley is especially conducive to the growth of strawberries. Maru is just as fond of them as I am.",
 
     //Dwarf
@@ -153,7 +153,7 @@
 
     //Pam
     "UGDE.Pam_(O)167": "Now all I need is a pirate to gift me the other half. Thanks, kid.",
-    "UGDE.Pam_(O)346_InSaloon": "Buying me a round? That's sweet of you, kid! *gulp gulp*|Now that's speaking my language, kid. Thanks!$h",
+    "UGDE.Pam_(O)346_InSaloon": "Buying me a round? That's sweet of you, kid! *gulp gulp*",
     "UGDE.Pam_(O)346_Elsewhere": "Now that's speaking my language, kid. Thanks!$h",
     "UGDE.Pam_(O)459": "It's no ambrosia, but it's gotta taste just as sweet, right? You spoil me, kid!$h",
     "UGDE.Pam_(O)303": "Doing me a solid, kid. Now come to mama, you!$h",
@@ -193,7 +193,7 @@
     "UGDE.Sebastian_category_egg": "Eggs... People must be joking when they say they like eggs, right? This is awful.",
     "UGDE.Sebastian_Coffee&Tea": "Thanks. I was feeling a little drowsy.",
     "UGDE.Sebastian_(O)253": "Thanks. I was feeling a little drowsy.#$b#*siip* Woah! That packs more of a punch than I expected.$0",
-    "UGDE.Sebastian_Mayo": "*urp* *gag* Sorry, just... Remembering something.#$e#Piece of advice: never get on the wrong side of an Abigail prank.",
+    "UGDE.Sebastian_Mayo": "*urp* *gag* Sorry, just... remembering something.#$e#Piece of advice: never get on the wrong side of an Abigail prank.",
 
     //Shane
     "UGDE.Shane_(O)206": "I could never get tired of pizza! Thanks.",
