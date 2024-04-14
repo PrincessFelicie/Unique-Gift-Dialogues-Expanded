@@ -40,8 +40,10 @@ her character. The gems ones are even pretty elaborate, being 50/50 odds of choo
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
+
         "AcceptGift_(O)72": "{{i18n:UGDE.Emily_(O)72}}#$action AddBuff emily_yoba_blessing", //Diamond
-        "AcceptGift_(O)74": "{{i18n:UGDE.Emily_(O)74}}" //Prismatic Shard
+        "AcceptGift_(O)74": "{{i18n:UGDE.Emily_(O)74}}", //Prismatic Shard
+
       }
     }
 
