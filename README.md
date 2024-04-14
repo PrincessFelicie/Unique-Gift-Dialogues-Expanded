@@ -3,7 +3,7 @@
 
 Requirements:
  *Content Patcher 2.0.2 or above
- *SpaceCore 1.22.0 or above (which isn't out yet as of writing this. Don't worry, the only line this should affect has been temporarily commentated out.)
+ *SpaceCore 1.22.0 or above!! ESSENTIAL!!
 
 Credits:
  * All lines written by PrincessFelicie
