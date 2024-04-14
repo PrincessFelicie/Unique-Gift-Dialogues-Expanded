@@ -14,8 +14,8 @@
       "AcceptGift_(O)97": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll2_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll2_nth}}", //Dwarf Scroll II
       "AcceptGift_(O)98": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll3_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll3_nth}}", //Dwarf Scroll III
       "AcceptGift_(O)99": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll4_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll4_nth}}", //Dwarf Scroll IV
-      "AcceptGift_(O)78":  "$query DAY_OF_WEEK Tuesday {{i18n:UGDE.Dwarf_(O)78_Tuesday}}#$action AddFriendshipPoints Dwarf 35|{{i18n:UGDE.Dwarf_(O)78_NotTuesday}}", //Cave Carrot. Gifting him one on Tuesdays will bump the friendship gain to a Loved gift.
-      "AcceptGift_Carrot":  "{{i18n:UGDE.Dwarf_Carrot}}", //Carrot
+      "AcceptGift_(O)78":  "$query DAY_OF_WEEK Tuesday#{{i18n:UGDE.Dwarf_(O)78_Tuesday}}#$action AddFriendshipPoints Dwarf 35|{{i18n:UGDE.Dwarf_(O)78_NotTuesday}}", //Cave Carrot. Gifting him one on Tuesdays will bump the friendship gain to a Loved gift.
+      "AcceptGift_(O)Carrot":  "{{i18n:UGDE.Dwarf_Carrot}}", //Carrot
 
     }
   }

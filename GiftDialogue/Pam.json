@@ -15,7 +15,7 @@
       "AcceptGift_(O)348": "{{i18n:UGDE.Pam_(O)348}}", //Wine
       "AcceptGift_(O)24": "$query PLAYER_NPC_RELATIONSHIP Any Penny Married#{{i18n:UGDE.Pam_(O)24_PennyMarried}}|{{i18n:UGDE.Pam_(O)24_PennySingle}}", //Parsnip
       "AcceptGift_(O)199": "{{i18n:UGDE.Pam_(O)199}}", //Parsnip Soup
-      "AcceptGift_(O)90": "$query ANY \"PLAYER_HAS_CONVERSATION_TOPIC Any pamHouseUpgrade\" \"PLAYER_HAS_CONVERSATION_TOPIC Any pamHouseUpgradeAnonymous\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any pamHouseUpgrade\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any pamHouseUpgradeAnonymous\" {{i18n:UGDE.Pam_(O)90_House}}|{{i18n:UGDE.Pam_(O)90_Trailer}}", //Cactus Fruit, needs Spacecore 1.22 to work correctly
+      "AcceptGift_(O)90": "$query ANY \"PLAYER_HAS_CONVERSATION_TOPIC Any pamHouseUpgrade\" \"PLAYER_HAS_CONVERSATION_TOPIC Any pamHouseUpgradeAnonymous\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any pamHouseUpgrade\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any pamHouseUpgradeAnonymous\"#{{i18n:UGDE.Pam_(O)90_House}}|{{i18n:UGDE.Pam_(O)90_Trailer}}", //Cactus Fruit, needs Spacecore 1.22 to work correctly
 
    }
   }

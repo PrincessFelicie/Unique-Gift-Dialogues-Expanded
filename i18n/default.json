@@ -1,4 +1,3 @@
-
 {
     //Abigail
     "UGDE.Abigail_Mayo1": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?",
@@ -39,7 +38,7 @@
     "UGDE.Dwarf_(O)554": "Oh ho! It is rare that I get to have one of these!#$e#If you were wondering about a comparison... I suppose these would be akin to your human \"cheeses\", to us.",
     "UGDE.Dwarf_(O)121": "This looks... worn. Another remain from my ancestors, most likely. Thank you, human.",
     "UGDE.Dwarf_(O)122": "Wish that I knew how to operate this. This is definitely one of ours...#$e#I heard that there is a giant Dwarvish machine still functional on an island south of there... I hope to go see it some day.",
-    "UGDE.Dwarf_ScrollIntro": "Hmm... You can speak our language, but do not know our alphabet, do you?#$b#This scroll is part of a series that details the ancient story of our people.",
+    "UGDE.Dwarf_ScrollIntro": "Hmm... You can speak our language, but do not know our alphabet, do you?#$b#This scroll is part of a series that details the ancient story of our people.", //Just remembered you can read the grave, so... That's wrong, actually. TODO figure out another reason the farmer can't read the scrolls
     "UGDE.Dwarf_Scroll1_1st": "It describes what our life used to be like, when our civilization was at its peak.#$b#Our technology was without equal... but I suppose you already knew that.",
     "UGDE.Dwarf_Scroll1_nth": "This scroll describes what our life used to be like, when our civilization was at its peak.#$b#Our technology was without equal... but I suppose you already knew that.",
     "UGDE.Dwarf_Scroll2_1st": "It tells of a catastrophe, One that threatened to end dwarfkind.#$b#From the wording... Hmm. It could've been anything from a volcanic eruption to an asteroid.#$b#It could even be meant metaphorically... The lack of clarity frustrates me.",
@@ -228,7 +227,5 @@
 
     //Wizard
     "UGDE.Wizard_(O)155": "Ah, the humble Super Cucumber. One of the few magically enhanced creatures roaming this land... The lining of its stomach makes for an excellent potion canteen once tanned. I thank you.",
-
-
 
 }
