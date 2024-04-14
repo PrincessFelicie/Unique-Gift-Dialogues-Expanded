@@ -95,6 +95,7 @@
     "UGDE.Jas_Cake_1": "I hope this cake is as delicious as it is pretty! I love it! *giggle*$h",
     "UGDE.Jas_Cake_2a": "I wonder if I should share with Vincent and Miss Penny... The cake is pretty big.$u",
     "UGDE.Jas_Cake_2b": "I wonder if I should share with Shane and Aunt Marnie... The cake is pretty big.$u",
+    "UGDE.Jas_category_artisan_goods": "I don't think this is appopri... approprira... okay for my age.$s",
 
     //Jodi
     "UGDE.Jodi_category_cooking": "Trying out cooking? Maybe you, Gus and I should swap recipes...$h#$e#There's no better path to a hefty cookbook than befriending people, if you ask me.#$b# Everybody's got a recipe or two they share with friends!$h",
@@ -143,6 +144,9 @@
     "UGDE.Marnie_CT_DinoOnFarm": "What!? You hatched a *dinosaur*!?$4#$b#You are one exceptional rancher, @, you know that?$h", //I know, this line isn't triggered by a gift... sue me
     "UGDE.Marnie_(O)807": "Hmm... That grassy smell... Maybe I can do something unique out of this. Thanks!$h",
     "UGDE.Marnie_(O)446": "So you're getting these too? I have no idea where they come from, since none of my rabbits seem to be missing a limb... Thank you.",
+    "UGDE.Marnie_(O)107_DinoOnFarm": "I don't think I want to ranch dinosaurs. Sorry, @.$s",
+    "UGDE.Marnie_(O)107_DinoNotHatched": "What kind of egg is this...? Is it worth incubating...? Keep it, @. You're the one who found it.$s",
+
 
     //Maru
     "UGDE.Maru_(O)725": "Resin! An excellent natural sealant and adhesive. Really useful for building all kinds of gadgets. Thanks!$h",
@@ -162,6 +166,9 @@
     "UGDE.Pam_(O)24_PennySingle": "Now that looks delicious, kid! I'll ask Penny to cook it tonight. Thanks.$h#$b#What?",
     "UGDE.Pam_(O)24_PennyMarried": "Now that looks delicious, kid! Guess I'll try cooking tonight. Thanks.$h#$b#It's hard without Penny around, but... If she's happy on the farm, I'm happy.",
     "UGDE.Pam_(O)199": "Smells like it warms the heart, just the way I like it... Thank you, kid. I'm eating healthy today.$h",
+    "UGDE.Pam_(O)90_Trailer": "If there was room in the trailer, I'd probably grow one of these in a pot...$h#$b#The fruit is delicious and the plant is low maintenance. Even someone like me could do it, right?$h#$b#Anyway... Thanks for listening to an older lady's ramblings.",
+    "UGDE.Pam_(O)90_House": "Hmm... Well, maybe now's the time to revisit that idea.$h#$e#I should ask Granny Mullner if she has a pot to lend next time she comes to water my plants...#$b#She'd probably be delighted.",
+
 
     //Penny
     "UGDE.Penny_(O)60": "This is my favorite gem! It's the same color as my eyes. Thanks.$h",
@@ -210,6 +217,7 @@
     "UGDE.Vincent_(O)398_1": "I love grapes! They're the best fruit ever! Thanks, mister farmer!^I love grapes! They're the best fruit ever! Thanks, miss farmer!",
     "UGDE.Vincent_(O)398_2": "Dad and I, we always go collect grapes together in Summer...#$b#Last year, I tried to give one to miss Penny.#$b#She made the same face as that time I found a cool slug on the way to class.$h",
     "UGDE.Vincent_Raisins": "What happened to those grapes? They're so tiny. *chew chew*$0#$b#...*ptooey*$s#$e#%Vincent looks so disappointed he might cry.",
+    "UGDE.Vincent_category_artisan_goods": "That's for grownups.$s",
 
     //Willy
     "UGDE.Willy_EasyFish": "Well done! Catch a few more of these and we might have a meal.",

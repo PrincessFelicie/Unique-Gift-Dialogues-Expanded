@@ -13,7 +13,7 @@
       "AcceptGift_(O)305": "{{i18n:UGDE.Marnie_(O)305}}", //Void Egg
       "AcceptGift_(O)289": "{{i18n:UGDE.Marnie_(O)289}}", //Ostrich Egg
       "purchasedAnimal_Dinosaur": "{{i18n:UGDE.Marnie_CT_DinoOnFarm}}", //Hatched a dinosaur... Sorry! Couldn't help myself, had to add a reaction from her at that news.
-      //"AcceptGift_(O)107": "$query ANY \"PLAYER_HAS_CONVERSATION_TOPIC Any purchasedAnimal_Dinosaur\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any purchasedAnimal_Dinosaur\"#I don't think I want to ranch dinosaurs. Sorry, @.$s|What kind of egg is this...? Is it worth incubating...? Keep it, @. You're the one who found it. [107]$s", //Dinosaur Egg, with thanks to spacechase0 for the advance SpaceCore patch <3
+      "AcceptGift_(O)107": "$query ANY \"PLAYER_HAS_CONVERSATION_TOPIC Any purchasedAnimal_Dinosaur\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any purchasedAnimal_Dinosaur\"#{{i18n:UGDE.Marnie_(O)107_DinoOnFarm}}|{{i18n:UGDE.Marnie_(O)107_DinoNotHatched}}[107]", //Dinosaur Egg, with thanks to spacechase0 for the advance SpaceCore patch <3
       "AcceptGift_(O)807": "{{i18n:UGDE.Marnie_(O)807}}",//Dinosaur Mayo
       "AcceptGift_(O)446": "{{i18n:UGDE.Marnie_(O)446}}" //Rabbit's Foot. Maybe too on the nose... worth revisiting.
 

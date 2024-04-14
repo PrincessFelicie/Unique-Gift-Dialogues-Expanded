@@ -10,7 +10,7 @@ Pretty much knocked out all the easy ones.*/
 
       "AcceptGift_(O)221": "{{i18n:UGDE.Jas_Cake_1}}#$e#$c 0.5#{{i18n:UGDE.Jas_Cake_2a}}#{{i18n:UGDE.Jas_Cake_2b}}", //Pink Cake
       "AcceptGift_(O)220": "{{i18n:UGDE.Jas_Cake_1}}#$e#$c 0.5#{{i18n:UGDE.Jas_Cake_2a}}#{{i18n:UGDE.Jas_Cake_2b}}", //Chocolate Cake
-      //TODO Raisins
+      "AcceptGift_category_artisan_goods": "{{i18n:UGDE.Jas_category_artisan_goods}}", //Artisan goods
 
     }
   }
