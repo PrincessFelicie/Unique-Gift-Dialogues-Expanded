@@ -10,6 +10,8 @@ SVE also gives him a few gift lines: Void Essence, Purple Mushrooms, and a coupl
 
       "AcceptGift_(O)155": "{{i18n:UGDE.Wizard_(O)155}}", //Super Cucumber
       //TODO Purple Mushroom
+      //TODO Void Essence. Will require a toggle for SVE
+      //TODO after quest, change to "If you are requesting that I forge you your own wizard's staff, you are not ready for one yet."
 
     }
   }

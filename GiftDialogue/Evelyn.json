@@ -7,7 +7,7 @@
 
     "Entries": {
 
-      "AcceptGift_(O)20": "%revealtasteGeorge20 {{i18n:UGDE.Evelyn_(O)20}}",//Leek
+      "AcceptGift_(O)20": "%revealtasteGeorge20 {{i18n:UGDE.Evelyn_(O)20}}",//Leek TODO: Change this line after her S15Y2 request is complete
       "AcceptGift_category_flowers": "{{i18n:UGDE.Evelyn_category_flowers}}", //All flowers not specified elsewhere, like modded ones.
       "AcceptGift_(O)595": "{{i18n:UGDE.Evelyn_(O)595}}", //Fairy Rose
       "AcceptGift_Raisins": "{{i18n:UGDE.Evelyn_Raisins_1}}#$e#{{i18n:UGDE.Evelyn_Raisins_2}}", //Raisins... In case that wasn't obvious

@@ -13,6 +13,10 @@
       "AcceptGift_(O)729": "{{i18n:UGDE.Gus_(O)729}}", //Escargot
       "AcceptGift_(O)648": "{{i18n:UGDE.Gus_(O)648}}", //Coleslaw
       "AcceptGift_(O)213": "{{i18n:UGDE.Gus_(O)213_1}}#$e#%revealtasteEmily213 {{i18n:UGDE.Gus_(O)213_2}}", //Fish Taco
+      //TODO Albacore. nb: disliked gift...
+      //TODO Lobster. nb: disliked gift...
+      //TODO Lobster Bisque?
+      //TODO Coconut. nb: disliked gift... Hmm, starting to be a lot of disliked gifts. Maybe trigger a special dialogue line if you keep gifting him disliked items he formerly requested?
 
     }
   }

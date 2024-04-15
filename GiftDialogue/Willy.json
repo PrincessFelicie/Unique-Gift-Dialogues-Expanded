@@ -13,6 +13,8 @@ Mutant Carp and Gold Bar. That's a lot for a townie.*/
       "AcceptGift_fish_difficulty_hard": "{{i18n:UGDE.Willy_HardFish}}", //Fishes 67-100
       "AcceptGift_fish_difficulty_extremely_hard": "{{i18n:UGDE.Willy_VeryHardFish}}", //effectively only the legend and its successor, and maybe some modded fish. For some reason, he's only neutral about it.
       "AcceptGift_(O)143": "{{i18n:UGDE.Willy_(O)143}}" //Catfish
+      //TODO Squid
+      //TODO Lingcod
 
     }
   }
