@@ -1,4 +1,9 @@
 {
+    //CONFIG
+    "Config.Shane_AlcoholLines_Toggle.name": "Toggle Shane's alcohol lines",
+    "Config.Shane_AlcoholLines_Toggle.description": "If set to false, removes the lines related to gifting Shane alcohol. This is primarily for compatibility with mods that modify Shane's tastes more thoroughly.",
+
+
     //Abigail
     "UGDE.Abigail_Mayo1": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?",
     "UGDE.Abigail_Mayo2": "I ate mayo straight out of the jar once to prank my mom... I don't think she ever recovered!",
