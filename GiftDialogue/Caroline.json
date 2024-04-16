@@ -10,7 +10,7 @@
       "AcceptGift_(O)213": "{{i18n:UGDE.Caroline_(O)213}}", //Fish Taco
       "AcceptGift_(O)306": "{{i18n:UGDE.Caroline_Mayo1}}#$e#{{i18n:UGDE.Caroline_Mayo2}}", //Mayonnaise
       "AcceptGift_(O)307": "{{i18n:UGDE.Caroline_Mayo1}}#$e#{{i18n:UGDE.Caroline_Mayo2}}", //Duck Mayonnaise
-      //TODO Pumpkin (different line in/out of season?)
+      "AcceptGift_(O)276": "$query \"SEASON fall\" \"DAY_OF_MONTH 19 20 21 22 23 24 25 26 27\"#{{i18n:UGDE.Caroline_(O)276_LateFall}}$h|%revealtasteAbigail 276 {{i18n:UGDE.Caroline_(O)276_NotFall}}$h", //Pumpkin
 
     }
   }

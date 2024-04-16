@@ -8,6 +8,9 @@
     "UGDE.Abigail_Mayo1": "Hey, a jar of mayo! Bottoms up! Just kidding... Or am I?",
     "UGDE.Abigail_Mayo2": "I ate mayo straight out of the jar once to prank my mom... I don't think she ever recovered!",
     "UGDE.Abigail_Mayo3": "Then I did it again with Sam and Sebastian. Good times.#$b#So who do you think I should scare next?",
+    "UGDE.Abigail_(O)128": "Woah, that fish looks so weird! I love it!",
+    "UGDE.Abigail_(O)276_LateFall": "The best thing about pumpkins is that nothing goes to waste. The inside is tasty and the outside makes a sick jack-o-lantern! Thanks!",
+    "UGDE.Abigail_(O)276_NotFall": "That looks mouthwatering... Thank you, @!",
 
     //Alex
     "UGDE.Alex_(O)306": "Proteins and calories, the building blocks of champions! Thanks, @!$h#$e#Now... Let's dig in! *slurp* *munch* *munch* *gulp* Time! That's a new record!$h",
@@ -16,6 +19,9 @@
     "UGDE.Caroline_(O)213": "Ah, a tuna taco...! How did you know I love this? Thank you, @!$h#$e#Willy sells his own fish, so it is rare we have any in store. I don't get to make those as often as I wish...",
     "UGDE.Caroline_Mayo1": "Ah... Sorry, just... I can't look at mayonnaise the same way ever since Abigail...$s",
     "UGDE.Caroline_Mayo2": "I can still cook with it mind you, but seeing a fresh unopened jar gives me the shivers.$s#$b#I have to ask Pierre to open them for me...",
+    "UGDE.Caroline_(O)276_LateFall": "Is this for Spirit's Eve? I'll get Abigail to help me carve it... Thanks.",
+    "UGDE.Caroline_(O)276_NotFall": "Ah! My daughter loves pumpkins. It seems I'll be making soup tonight! Thanks, @.",
+
 
     //Clint
     "UGDE.Clint_category_gem": "Huh. Quality gem. You've got a good eye for mining, @.",
@@ -43,7 +49,7 @@
     "UGDE.Dwarf_(O)554": "Oh ho! It is rare that I get to have one of these!#$e#If you were wondering about a comparison... I suppose these would be akin to your human \"cheeses\", to us.",
     "UGDE.Dwarf_(O)121": "This looks... worn. Another remain from my ancestors, most likely. Thank you, human.",
     "UGDE.Dwarf_(O)122": "Wish that I knew how to operate this. This is definitely one of ours...#$e#I heard that there is a giant Dwarvish machine still functional on an island south of there... I hope to go see it some day.",
-    "UGDE.Dwarf_ScrollIntro": "Hmm... You can speak our language, but do not know our alphabet, do you?#$b#This scroll is part of a series that details the ancient story of our people.", //Just remembered you can read the grave, so... That's wrong, actually. TODO figure out another reason the farmer can't read the scrolls
+    "UGDE.Dwarf_ScrollIntro": "Hmm... This dialect is quite outdated, I don't think you could read this even if you tried.#$b#This scroll is part of a series that details the ancient story of our people.",
     "UGDE.Dwarf_Scroll1_1st": "It describes what our life used to be like, when our civilization was at its peak.#$b#Our technology was without equal... but I suppose you already knew that.",
     "UGDE.Dwarf_Scroll1_nth": "This scroll describes what our life used to be like, when our civilization was at its peak.#$b#Our technology was without equal... but I suppose you already knew that.",
     "UGDE.Dwarf_Scroll2_1st": "It tells of a catastrophe, One that threatened to end dwarfkind.#$b#From the wording... Hmm. It could've been anything from a volcanic eruption to an asteroid.#$b#It could even be meant metaphorically... The lack of clarity frustrates me.",
