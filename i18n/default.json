@@ -48,7 +48,7 @@
     //Dwarf
     "UGDE.Dwarf_(O)554": "Oh ho! It is rare that I get to have one of these!#$e#If you were wondering about a comparison... I suppose these would be akin to your human \"cheeses\", to us.",
     "UGDE.Dwarf_(O)121": "This looks... worn. Another remain from my ancestors, most likely. Thank you, human.",
-    "UGDE.Dwarf_(O)122": "Wish that I knew how to operate this. This is definitely one of ours...#$e#I heard that there is a giant Dwarvish machine still functional on an island south of there... I hope to go see it some day.",
+    "UGDE.Dwarf_(O)122": "I wish I knew how to operate this. This is definitely one of ours...#$e#I heard that there is a giant Dwarvish machine still functional on an island south of there... I hope to go see it some day.",
     "UGDE.Dwarf_ScrollIntro": "Hmm... This dialect is quite outdated, I don't think you could read this even if you tried.#$b#This scroll is part of a series that details the ancient story of our people.",
     "UGDE.Dwarf_Scroll1_1st": "It describes what our life used to be like, when our civilization was at its peak.#$b#Our technology was without equal... but I suppose you already knew that.",
     "UGDE.Dwarf_Scroll1_nth": "This scroll describes what our life used to be like, when our civilization was at its peak.#$b#Our technology was without equal... but I suppose you already knew that.",
@@ -81,6 +81,8 @@
     //George
     "UGDE.George_(O)20": "*sniff sniff* That amazing smell... Did she put you up to this? Bah, this is great either way!$h",
     "UGDE.George_(O)205": "Now that takes me back... You know how to make an old man happy. Eaten my fair share of these back in the day!$h#$e#The wife doesn't do fried foods these days... Says it's bad for my heart.#$b#But I'll go out how I darn please if it means with a smile on my face!$h",
+    "UGDE.George_(O)260_Early": "Hmm? *grumble* #$e#Don't think I need any, do I? Bah, I'm sure I've got enough.$2#$b#Hey, can't an old man mumble to himself in peace? Go away.$3",
+    "UGDE.George_(O)260_AfterQuest": "My knee's doing fine today, but thanks. I'll stash away that one for another day.#$b#Yoba knows the thing acts up as it pleases.",
 
     //Gus
     "UGDE.Gus_(O)72": "Ah! So you noticed my bear's missing eye? This will make a perfect replacement, @!$h",
@@ -111,6 +113,9 @@
     "UGDE.Jodi_category_cooking": "Trying out cooking? Maybe you, Gus and I should swap recipes...$h#$e#There's no better path to a hefty cookbook than befriending people, if you ask me.#$b# Everybody's got a recipe or two they share with friends!$h",
     "UGDE.Jodi_(O)265": "No thank you.",
     "UGDE.Jodi_(O)203": "Isn't that Gus's...?$4#$b#Oh, it is. Blech...$s#$e#Not every experiment comes to fruition, let's say...",
+    "UGDE.Jodi_(O)190_Early": "A cauliflower! Hmm... You've given me a few ideas. Thank you.#$e#I'll experiment with a few dishes using this one... If all goes well, I might request another soon, alright?",
+    "UGDE.Jodi_(O)190_AfterQuest": "Another cauliflower! Thank you.#$e#It's hard to get Vincent to eat his greens, but yellow curry always does the trick.",
+
 
     //Kent
     "UGDE.Kent_category_cooking": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man who's favorite food isn't their spouse's cooking. Tip from a soldier.",
@@ -133,7 +138,7 @@
 
     //Leo at Mainland
     "UGDE.LeoMainland_(TR)ParrotEgg": "This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.", //!!! This is a vanilla line, present in Leo but missing from LeoMainland. If you are translating to a vanilla supported language, this line's translation already exists in the Characters/Dialogue/Leo_{your language here}.json file from the base game.
-    "UGDE.LeoMainland_(O)395": "What's this? You made a drink out of beans? *sluuurp*#$b#...uh-oh. $2#$€#>I-I-I ca-a-a-an't si-i-i-it sti-i-i-i-ill...!!!$2",
+    "UGDE.LeoMainland_(O)395": "What's this? You made a drink out of beans? *sluuurp*#$b#...uh-oh. $2#$e#>I-I-I ca-a-a-an't si-i-i-it sti-i-i-i-ill...!!!$2",
     "UGDE.LeoMainland_(O)253": "This smells too bitter. I don't want that.$s",
     "UGDE.LeoMainland_(O)444": "Oh, what a pretty feather! It's like my parrot ones...$h#$e#A 'duck' feather? I'll ask Miss Penny about it!$h",
 

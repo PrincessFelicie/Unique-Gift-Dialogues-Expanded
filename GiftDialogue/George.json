@@ -9,7 +9,7 @@
 
       "AcceptGift_(O)20": "{{i18n:UGDE.George_(O)20}}", //Leek
       "AcceptGift_(O)205": "{{i18n:UGDE.George_(O)205}}", //Fried Mushroom
-      //TODO Hot Pepper ("My knee's doing fine today, but sure.")
+      "AcceptGift_(O)260": "$query PLAYER_HAS_MAIL Current summer_25_1 Received #{{i18n:UGDE.George_(O)260_AfterQuest}}##$action AddFriendshipPoints George 25|{{i18n:UGDE.George_(O)260_Early}}", //Hot Pepper. Moves to liked gift after completing his quest, as he appreciates the gesture.
 
     }
   }
