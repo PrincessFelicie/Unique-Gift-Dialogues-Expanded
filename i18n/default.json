@@ -74,7 +74,8 @@
     "UGDE.Emily_(O)634_AfterQuest": "How sweet of you, another apricot! Your care for the people around you shines through in this gift.$h", //...Maybe too much?
 
     //Evelyn
-    "UGDE.Evelyn_(O)20": "Thank you, dear. Give this to George next time, I know he would enjoy it very much.",
+    "UGDE.Evelyn_(O)20_Early": "Thank you, dear. Give this to George next time, I know he would enjoy it very much.",
+    "UGDE.Evelyn_(O)20_AfterSpecial": "It was so kind of you to help with George's surprise gift. I'll make sure this finds him too.",
     "UGDE.Evelyn_category_flowers": "Ah, don't they smell lovely...! I will find a matching vase to put them in. Thank you, dear.$h",
     "UGDE.Evelyn_(O)595": "Oh my, I wouldn't mind a little visit from a friendly fairy! Maybe this will be just what I need to invite one over tea...$h#$e#I spotted one near your farm once, when I was much younger. Of course, it was your grandfather's at the time...",
     "UGDE.Evelyn_Raisins_1": "These taste just wonderful, my dear! Good old %farm Farm raisins... How I missed the taste.$h",
@@ -84,7 +85,8 @@
     "UGDE.George_(O)20": "*sniff sniff* That amazing smell... Did she put you up to this? Bah, this is great either way!$h",
     "UGDE.George_(O)205": "Now that takes me back... You know how to make an old man happy. Eaten my fair share of these back in the day!$h#$e#The wife doesn't do fried foods these days... Says it's bad for my heart.#$b#But I'll go out how I darn please if it means with a smile on my face!$h",
     "UGDE.George_(O)260_Early": "Hmm? *grumble* #$e#Don't think I need any, do I? Bah, I'm sure I've got enough.$2#$b#Hey, can't an old man mumble to himself in peace? Go away.$3",
-    "UGDE.George_(O)260_AfterQuest": "My knee's doing fine today, but thanks. I'll stash away that one for another day.#$b#Yoba knows the thing acts up as it pleases.",
+    "UGDE.George_(O)260_AfterQuest": "My knee's doing fine today, but thanks. I'll stash that one for another day.#$b#Yoba knows the thing acts up as it pleases.",
+    "UGDE.George_(O)284": "A beet...#$b#...#$b#That's Evelyn's favorite. But you didn't hear it from me, alright?",
 
     //Gus
     "UGDE.Gus_(O)72": "Ah! So you noticed my bear's missing eye? This will make a perfect replacement, @!$h",
