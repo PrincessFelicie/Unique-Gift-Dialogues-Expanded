@@ -8,6 +8,11 @@
     "Entries": {
 
       "AcceptGift_(O)395": "{{i18n:UGDE.Harvey_(O)395}}", //Coffee
+      //TODO Pickles
+      //TODO Super Meal
+      "AcceptGift_forage_item_beach": "{{i18n:UGDE.Harvey_BeachForage}}", //All Beach forage items
+      "AcceptGift_(O)152": "{{i18n:UGDE.Harvey_(O)152}}", //Seaweed
+
 
     }
   }

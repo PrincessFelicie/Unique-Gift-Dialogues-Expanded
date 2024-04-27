@@ -70,6 +70,8 @@
     "UGDE.EmilyBlessingName": "Emily's Blessing",
     "UGDE.Emily_(O)72": "Can you feel it? The pure divine energy emanating from this gem? It is so wonderful...$h#$e#May Yoba bless you on this lovely day.$7",
     "UGDE.Emily_(O)74": "How wonderful... A cocktail of positive energy, flowing all around us! So this is the power of a Prismatic Shard...$h#$e#This'll brighten the vibes of our living room immensely!$h",
+    "UGDE.Emily_(O)634_Early": "Oh! I didn't expect %farm Farm to be growing fruit trees already. Or is this a gift from a forest friend? Thanks!$h#$e#I do like the taste of apricot at this time of year, but Pierre usually has me covered.",
+    "UGDE.Emily_(O)634_AfterQuest": "How sweet of you, another apricot! Your care for the people around you shines through in this gift.$h", //...Maybe too much?
 
     //Evelyn
     "UGDE.Evelyn_(O)20": "Thank you, dear. Give this to George next time, I know he would enjoy it very much.",
@@ -102,6 +104,8 @@
 
     //Harvey
     "UGDE.Harvey_(O)395": "I can't start the day without one... Ah, and this one smells fantastic!$h#$e#I usually drink coffee black, but I'm not against adding milk when I need calcium.",
+    "UGDE.Harvey_BeachForage": "That, I am *definitely* allergic to! $2",
+    "UGDE.Harvey_(O)152": "A seaweed...? ...Why?",
 
     //Jas
     "UGDE.Jas_Cake_1": "I hope this cake is as delicious as it is pretty! I love it! *giggle*$h",
