@@ -1,4 +1,5 @@
-/*Vanilla Sandy has lines for Daffodil, Crocus, and Sweet Pea. I see a pattern here.*/
+/*Vanilla Sandy has lines for Daffodil, Crocus, and Sweet Pea. I see a pattern here.
+She has no lines for birthday presents.*/
 
 {"Changes": [
   {
@@ -9,6 +10,8 @@
 
       "AcceptGift_(O)88": "{{i18n:UGDE.Sandy_(O)88}}", //Coconut
       "AcceptGift_(O)90": "{{i18n:UGDE.Sandy_(O)90}}", //Cactus Fruit
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
     }
   }

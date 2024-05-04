@@ -1,4 +1,5 @@
-/*Vanilla Pam has no extra lines outside of Stardrop Tea.*/
+/*Vanilla Pam has no extra lines outside of Stardrop Tea.
+She has no lines for birthday presents*/
 
 {"Changes": [
   {
@@ -17,6 +18,8 @@
       "AcceptGift_(O)199": "{{i18n:UGDE.Pam_(O)199}}", //Parsnip Soup
       "AcceptGift_(O)90": "$query ANY \"PLAYER_HAS_CONVERSATION_TOPIC Any pamHouseUpgrade\" \"PLAYER_HAS_CONVERSATION_TOPIC Any pamHouseUpgradeAnonymous\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any pamHouseUpgrade\" \"PLAYER_SEEN_CONVERSATION_TOPIC Any pamHouseUpgradeAnonymous\"#{{i18n:UGDE.Pam_(O)90_House}}|{{i18n:UGDE.Pam_(O)90_Trailer}}", //Cactus Fruit, needs Spacecore 1.22 to work correctly
       //TODO Battery Pack. Change it to a neutral gift after the quest is completed?
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
    }
   }

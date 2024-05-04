@@ -1,4 +1,5 @@
-/*Vanilla Marnie has a line for the Stardew Valley Almanac.*/
+/*Vanilla Marnie has a line for the Stardew Valley Almanac.
+She has no lines for birthday presents.*/
 
 {"Changes": [
   {
@@ -19,6 +20,8 @@
       //TODO Cave Carrot
       //TODO Carrot
       //TODO Amaranth
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
     }
   }

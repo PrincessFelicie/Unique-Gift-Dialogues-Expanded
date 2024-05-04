@@ -1,5 +1,5 @@
-/*Vanilla Willy already has lines for The Art O' Crabbing, Jewels Of The Sea, Bait And Bobber, Coffee & Triple Shot,
-Mutant Carp and Gold Bar. That's a lot for a townie.*/
+/*Vanilla Willy already has lines for The Art O' Crabbing, Jewels Of The Sea, Bait And Bobber, Coffee & Triple Shot, Mutant Carp and Gold Bar. That's a lot for a townie.
+He has no lines for birthday presents.*/
 
 {"Changes": [
   {
@@ -15,6 +15,8 @@ Mutant Carp and Gold Bar. That's a lot for a townie.*/
       "AcceptGift_(O)143": "{{i18n:UGDE.Willy_(O)143}}" //Catfish
       //TODO Squid
       //TODO Lingcod
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
     }
   }

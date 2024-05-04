@@ -1,4 +1,5 @@
-/*Vanilla Evelyn has a line for Broken Glasses, and Beach forage items.*/
+/*Vanilla Evelyn has a line for Broken Glasses, and Beach forage items.
+She has no lines for birthday presents.*/
 
 {"Changes": [
   {
@@ -11,6 +12,8 @@
       "AcceptGift_category_flowers": "{{i18n:UGDE.Evelyn_category_flowers}}", //All flowers not specified elsewhere, like modded ones.
       "AcceptGift_(O)595": "{{i18n:UGDE.Evelyn_(O)595}}", //Fairy Rose
       "AcceptGift_Raisins": "{{i18n:UGDE.Evelyn_Raisins_1}}#$e#{{i18n:UGDE.Evelyn_Raisins_2}}", //Raisins... In case that wasn't obvious
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
     }
   }

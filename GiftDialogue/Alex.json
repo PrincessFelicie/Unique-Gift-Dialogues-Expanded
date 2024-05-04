@@ -1,5 +1,6 @@
 /*Vanilla Alex already has lines for [Jack be Nimble], all other books, the Frog Egg trinket, the Parrot Egg trinket,
-Golden Egg, Dinosaur Egg, Ostrich Egg, Duck Egg, Void Egg, Field Snack, and all other eggs. So many eggs...*/
+Golden Egg, Dinosaur Egg, Ostrich Egg, Duck Egg, Void Egg, Field Snack, and all other eggs. So many eggs...
+He has a line for loved birthday gifts, and a line for disliked-and-hated birthday gifts.*/
 
 {"Changes": [
   {
@@ -7,8 +8,9 @@ Golden Egg, Dinosaur Egg, Ostrich Egg, Duck Egg, Void Egg, Field Snack, and all 
     "Target": "Characters/Dialogue/Alex",
 
     "Entries": {
-
-      "AcceptGift_(O)201": "{{i18n:UGDE.Alex_(O)306}}" //Complete Breakfast
+      "AcceptGift_(O)201": "{{i18n:UGDE.Alex_(O)306}}", //Complete Breakfast
+      //TODO "AcceptBirthdayGift_Liked": "",
+      //TODO "AcceptBirthdayGift_Neutral": "",
 
     }
   }

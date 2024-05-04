@@ -1,4 +1,5 @@
-/*Vanilla Gus already has lines for food items, and that's it.*/
+/*Vanilla Gus already has lines for food items, and that's it.
+He has no lines for birthday presents.*/
 
 {"Changes": [
   {
@@ -17,7 +18,8 @@
       //TODO Lobster. nb: disliked gift...
       //TODO Lobster Bisque?
       //TODO Coconut. nb: disliked gift... Hmm, starting to be a lot of disliked gifts. Maybe trigger a special dialogue line if you keep gifting him disliked items he formerly requested?
-
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
     }
   }
 ]}

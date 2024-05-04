@@ -1,4 +1,5 @@
-/*Vanilla Penny has lines for "ancient items" (a specific set of artifacts tagged with ContextTags ancient_item), and all books.*/
+/*Vanilla Penny has lines for "ancient items" (a specific set of artifacts tagged with ContextTags ancient_item), and all books.
+She has a line for loved birthday gifts, liked-and-neutral birthday gifts, and disliked-and-hated birthday gifts. That last one kind of goes harsh...*/
 
 {"Changes": [
   {

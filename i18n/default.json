@@ -101,11 +101,12 @@
 
     //Haley
     "UGDE.Haley_(O)221_early": "Is this the Queen of Sauce's famous pink cake? I've been dying for another bite for so long! Thanks!$h#$e#I sent a letter to the show asking for the recipe, but they must be backed up...",
-    "UGDE.Haley_(O)221_year2NoRecipe": "Is this the Queen of Sauce's famous pink cake? So you caught the episode too, then!$h#$e#What? ...No? Well, lucky you, I taped it! Here.",
+    "UGDE.Haley_(O)221_year2NoRecipe": "Is this the Queen of Sauce's famous pink cake? So you caught the episode too, then!$h#$e#What? ...No? Well, lucky you, I taped it! Here.", //TODO Add "You learned the recipe for Pink Cake!" as a no-portrait line
     "UGDE.Haley_(O)221_year2RecipeKnown": "Ah... Who would've guessed that amazing flavor was melon? The Queen of Sauce's recipes are always delicious.$h#$b#Did you see the moment when she read my letter?$h",
+    "UGDE.Haley_BirthdayGiftNeutral": "Is this for my birthday? It's kind of ok, I guess. Thanks for the gift.",
 
     //Harvey
-    "UGDE.Harvey_(O)395": "I can't start the day without one... Ah, and this one smells fantastic!$h#$e#I usually drink coffee black, but I'm not against adding milk when I need calcium.",
+    "UGDE.Harvey_(O)395": "I can't start the day without a cup... Ah, and this one smells fantastic!$h#$e#I usually drink coffee black, but I'm not against adding milk either.#$b#It's a well-known source of calcium.",
     "UGDE.Harvey_BeachForage": "That, I am *definitely* allergic to! $2",
     "UGDE.Harvey_(O)152": "A seaweed...? ...Why?",
 
@@ -136,6 +137,8 @@
 
     //Leah
     "UGDE.Leah_(O)348": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of wine at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
+    "UGDE.Leah_BirthdayGiftNegative": "No offense, but your birthday gift instincts are as bad as my ex's.$s",
+    "UGDE.Leah_BirthdayGiftNegative_10Hearts": "Urgh... You couldn't have known, but that was the last thing Kel gifted me on my birthday before we broke up.$s#$e#Yes, it was one of the reasons why.$s#$b#Ah well, I refuse to let that ruin my birthday! You'll do better next year, @.",
 
     //Leo
     "UGDE.Leo_(O)395": "What is this? Drink of 'beans'? *sluuurp*#$b#...uh-oh. $2#$e#>F-f-f-fly!! M-m-must f-f-fly f-f-fly f-f-fly!!!$2",
@@ -201,6 +204,8 @@
 
     //Pierre
     "UGDE.Pierre_(O)202": "*munch munch* Yum! Delicious! Tastes just like my wife's...$h#$b# Did she give you the recipe? Please, keep them coming!$h",
+    //"UGDE.Pierre_BirthdayGiftPositive"
+    "UGDE.Pierre_BirthdayGiftNegative": "Honestly, just get me a gift card next year.$s#$e#Forget the gift card even, just give me money! That can't ever go wrong!$h",
 
     //Robin
     "UGDE.Robin_(O)224": "Oh, this tomato sauce is just divine! Did you make this yourself, or buy it at the saloon? I'm fine with either, honestly! Thank you @!$h",

@@ -1,5 +1,6 @@
 /*Vanilla Wizard has no extra lines outside stardrop tea.
-SVE also gives him a few gift lines: Void Essence, Purple Mushrooms, and a couple SVE items that aren't relevant here. Still, worth noting, since this is a popular mod.*/
+SVE also gives him a few gift lines: Void Essence, Purple Mushrooms, and a couple SVE items that aren't relevant here. Still, worth noting, since this is a popular mod.
+He has no lines for birthday presents. SVE doesn't change that.*/
 
 {"Changes": [
   {
@@ -12,6 +13,8 @@ SVE also gives him a few gift lines: Void Essence, Purple Mushrooms, and a coupl
       //TODO Purple Mushroom
       //TODO Void Essence. Will require a toggle for SVE
       //TODO after quest, change to "If you are requesting that I forge you your own wizard's staff, you are not ready for one yet."
+      //TODO "AcceptBirthdayGift_Positive"
+      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
     }
   }
