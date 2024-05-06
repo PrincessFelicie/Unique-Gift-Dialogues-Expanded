@@ -2,6 +2,8 @@
     //CONFIG
     "Config.Shane_AlcoholLines_Toggle.name": "Toggle Shane's alcohol lines",
     "Config.Shane_AlcoholLines_Toggle.description": "If set to false, removes the lines related to gifting Shane alcohol. This is primarily for compatibility with mods that modify Shane's tastes more thoroughly.",
+    "Config.Leo_Toggle.name": "Toggle all of Leo's lines",
+    "Config.Leo_Toggle.description": "If set to false, removes all changes to Leo. This is primarily for compatibility with mods that rework Ginger Island to be a less colonialist narrative.",
 
 
     //Abigail
