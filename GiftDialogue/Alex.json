@@ -9,9 +9,8 @@ He has a line for loved birthday gifts, and a line for disliked-and-hated birthd
 
     "Entries": {
       "AcceptGift_(O)201": "{{i18n:UGDE.Alex_(O)306}}", //Complete Breakfast
-      //TODO "AcceptBirthdayGift_Liked": "",
-      //TODO "AcceptBirthdayGift_Neutral": "",
-
+      "AcceptBirthdayGift_Liked": "{{i18n:UGDE.Alex_BirthdayGiftLiked}}", //Liked birthday gift
+      "AcceptBirthdayGift_Neutral": "{{i18n:UGDE.Alex_BirthdayGiftNeutral}}", //Neutral birthday gift
     }
   }
 ]}

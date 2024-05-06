@@ -9,7 +9,7 @@ She has a line for loved-to-neutral birthday gifts.*/
     "Entries": {
 
       "AcceptGift_(O)348": "{{i18n:UGDE.Leah_(O)348}}", //Wine
-      "AcceptBirthdayGift_Negative": "$query PLAYER_HEARTS Current Leah 10#{{UGDE.Leah_BirthdayGiftNegative_10Hearts}}|{{UGDE.Leah_BirthdayGiftNegative}}", //Disliked or hated birthday gift
+      "AcceptBirthdayGift_Negative": "$query PLAYER_HEARTS Current Leah 10#{{i18n:UGDE.Leah_BirthdayGiftNegative_10Hearts}}|{{i18n:UGDE.Leah_BirthdayGiftNegative}}", //Disliked or hated birthday gift
 
     }
   }

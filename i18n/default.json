@@ -14,6 +14,8 @@
 
     //Alex
     "UGDE.Alex_(O)306": "Proteins and calories, the building blocks of champions! Thanks, @!$h#$e#Now... Let's dig in! *slurp* *munch* *munch* *gulp* Time! That's a new record!$h",
+    "UGDE.Alex_BirthdayGiftLiked": "A birthday gift? Thanks @! That's kinda cool.",
+    "UGDE.Alex_BirthdayGiftNeutral": "This is for my birthday, right? Thanks!",
 
     //Caroline
     "UGDE.Caroline_(O)213": "Ah, a tuna taco...! How did you know I love this? Thank you, @!$h#$e#Willy sells his own fish, so it is rare we have any in store. I don't get to make those as often as I wish...",
@@ -68,7 +70,7 @@
 
     //Emily
     "UGDE.EmilyBlessingName": "Emily's Blessing",
-    "UGDE.Emily_(O)72": "Can you feel it? The pure divine energy emanating from this gem? It is so wonderful...$h#$e#May Yoba bless you on this lovely day.$7",
+    "UGDE.Emily_(O)72": "Can you feel it? The pure divine energy emanating from this gem? It is so wonderful...$h#$e#May Yoba bless you on this lovely day.$7", //Hey, so. Turns out. If you're married to Emily and it is exactly the 2nd of Summer, she'll say this exact line as well. I had never seen it before, I just encountered it on the wiki and I was flabbergasted. I thought someone had mistaken a line from my mod as vanilla and added it to the wiki, but... no. It's in there. MarriageDialogueEmily.json summer_2. My mind is blown. Exact wording and everything, yet a total coincidence. I... guess I understand Emily's character voice better than I thought?
     "UGDE.Emily_(O)74": "How wonderful... A cocktail of positive energy, flowing all around us! So this is the power of a Prismatic Shard...$h#$e#This'll brighten the vibes of our living room immensely!$h",
     "UGDE.Emily_(O)634_Early": "Oh! I didn't expect %farm Farm to be growing fruit trees already. Or is this a gift from a forest friend? Thanks!$h#$e#I do like the taste of apricot at this time of year, but Pierre usually has me covered.",
     "UGDE.Emily_(O)634_AfterQuest": "How sweet of you, another apricot! Your care for the people around you shines through in this gift.$h", //...Maybe too much?
@@ -80,6 +82,8 @@
     "UGDE.Evelyn_(O)595": "Oh my, I wouldn't mind a little visit from a friendly fairy! Maybe this will be just what I need to invite one over tea...$h#$e#I spotted one near your farm once, when I was much younger. Of course, it was your grandfather's at the time...",
     "UGDE.Evelyn_Raisins_1": "These taste just wonderful, my dear! Good old %farm Farm raisins... How I missed the taste.$h",
     "UGDE.Evelyn_Raisins_2": "Your grandfather used to make so many of these ahead of any harvest, more than I could ever buy from him.#$b#I must not have been the only raisin lover in the Valley... *wink*",
+    "UDGE.Evelyn_BirthdayGiftPositive": "Oh, this is very kind of you, dear! Even after all these years, my birthday still feels special.",
+    "UDGE.Evelyn_BirthdayGiftNegative": "Oh... Is this a birthday gift? Bless your heart, dear.",
 
     //George
     "UGDE.George_(O)20": "*sniff sniff* That amazing smell... Did she put you up to this? Bah, this is great either way!$h",
@@ -87,6 +91,8 @@
     "UGDE.George_(O)260_Early": "Hmm? *grumble* #$e#Don't think I need any, do I? Bah, I'm sure I've got enough.$2#$b#Hey, can't an old man mumble to himself in peace? Go away.$3",
     "UGDE.George_(O)260_AfterQuest": "My knee's doing fine today, but thanks. I'll stash that one for another day.#$b#Yoba knows the thing acts up as it pleases.",
     "UGDE.George_(O)284": "A beet...#$b#...#$b#That's Evelyn's favorite. But you didn't hear it from me, alright?",
+    "UDGE.George_BirthdayGiftPositive": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift? Sure.$0",
+    "UDGE.George_BirthdayGiftNegative": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift?$0#$b#...Yoba, if you exist, just take me already.$3",
 
     //Gus
     "UGDE.Gus_(O)72": "Ah! So you noticed the bear statue's missing eye? This will make a perfect replacement, @!$h",
@@ -101,7 +107,7 @@
 
     //Haley
     "UGDE.Haley_(O)221_early": "Is this the Queen of Sauce's famous pink cake? I've been dying for another bite for so long! Thanks!$h#$e#I sent a letter to the show asking for the recipe, but they must be backed up...",
-    "UGDE.Haley_(O)221_year2NoRecipe": "Is this the Queen of Sauce's famous pink cake? So you caught the episode too, then!$h#$e#What? ...No? Well, lucky you, I taped it! Here.", //TODO Add "You learned the recipe for Pink Cake!" as a no-portrait line
+    "UGDE.Haley_(O)221_year2NoRecipe": "Is this the Queen of Sauce's famous pink cake? So you caught the episode too, then!$h#$e#What? ...No? Well, lucky you, I taped it! Here.#$b#%You learned the recipe for Pink Cake!",
     "UGDE.Haley_(O)221_year2RecipeKnown": "Ah... Who would've guessed that amazing flavor was melon? The Queen of Sauce's recipes are always delicious.$h#$b#Did you see the moment when she read my letter?$h",
     "UGDE.Haley_BirthdayGiftNeutral": "Is this for my birthday? It's kind of ok, I guess. Thanks for the gift.",
 

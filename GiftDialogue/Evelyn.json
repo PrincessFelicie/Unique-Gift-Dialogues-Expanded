@@ -12,8 +12,9 @@ She has no lines for birthday presents.*/
       "AcceptGift_category_flowers": "{{i18n:UGDE.Evelyn_category_flowers}}", //All flowers not specified elsewhere, like modded ones.
       "AcceptGift_(O)595": "{{i18n:UGDE.Evelyn_(O)595}}", //Fairy Rose
       "AcceptGift_Raisins": "{{i18n:UGDE.Evelyn_Raisins_1}}#$e#{{i18n:UGDE.Evelyn_Raisins_2}}", //Raisins... In case that wasn't obvious
-      //TODO "AcceptBirthdayGift_Positive"
-      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
+      "AcceptBirthdayGift_Positive": "{{i18n:UDGE.Evelyn_BirthdayGiftPositive}}", //Loved, liked, neutral birthday gift
+      "AcceptBirthdayGift_Negative": "{{i18n:UDGE.Evelyn_BirthdayGiftNegative}}", //Disliked, hated birthday gift
+      //TODO 284 Beet
 
     }
   }
