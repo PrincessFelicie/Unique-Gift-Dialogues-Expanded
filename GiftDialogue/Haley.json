@@ -8,13 +8,14 @@ She has a line for loved birthday gifts, liked birthday gifts, and disliked-and-
     "Entries": {
       "AcceptGift_(O)221": "{{i18n:UGDE.Haley_(O)221_early}}", //Pink Cake
       "AcceptBirthdayGift_Neutral": "{{i18n:UGDE.Haley_BirthdayGiftNeutral}}", //Neutral response birthday gift
+      "AcceptGift_(O)74": "{{i18n:UGDE.Haley_(O)74_1}}[74]#$e#{{i18n:UGDE.Haley_(O)74_2}}", //Prismatic Shard. TODO change dialogue if dating?
     }
   },
   {
     "Action": "EditData",
     "Target": "Characters/Dialogue/Haley",
     "When": {
-      "DaysPlayed": "161", //After Year 2 Summer 21, change the Pink Cake line.
+      "DaysPlayed": "161", //After Year 2 Summer 21. This should only desync if the player is doing weird debug time-travelly stuff.
     },
     "Entries": {
       "AcceptGift_(O)221": "$query !PLAYER_HAS_COOKING_RECIPE Current \"Pink Cake\" {{i18n:UGDE.Haley_(O)221_year2NoRecipe}}#$action MarkCookingRecipeKnown Current \"Pink Cake\"|{{i18n:UGDE.Haley_(O)221_year2RecipeKnown}}", //Pink Cake, after the episode has aired

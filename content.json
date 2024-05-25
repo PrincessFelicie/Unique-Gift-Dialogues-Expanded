@@ -1,24 +1,317 @@
 {
+  //Is anything mistyped or broken?
+  //You can report it on NexusMods (either of Posts or Forum is fine) https://www.nexusmods.com/stardewvalley/mods/21501
+  //Or on Github https://github.com/PrincessFelicie/Unique-Gift-Dialogues-Expanded/issues
 
   "Format": "2.0.2",   //This is the edition of Content Patcher needed to run your mod. When in doubt, use the latest edition.
 
   "ConfigSchema": {
-    "Shane_AlcoholLines_Toggle": {
+    "Abigail_Toggle": {
       "Default": "true",
       "AllowValues": "true, false",
-      "description": "If set to false, removes the lines related to gifting Shane alcohol. This is primarily for compatibility with mods that modify Shane's tastes more thoroughly."
+      "section": "CToggle",
+    },
+    "Alex_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Caroline_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Clint_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Demetrius_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Dwarf_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Elliott_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Emily_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Evelyn_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "George_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Gus_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Haley_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Harvey_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Jas_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Jodi_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Kent_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Krobus_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Leah_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
     },
     "Leo_Toggle": {
       "Default": "true",
       "AllowValues": "true, false",
-      "description": "If set to false, removes all changes to Leo. This is primarily for compatibility with mods that rework Ginger Island to be a less colonialist narrative."
-    }
+      "section": "CToggle",
+    },
+    "Lewis_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Linus_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Marnie_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Maru_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Pam_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Penny_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Pierre_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Robin_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Sam_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Sandy_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Sebastian_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Shane_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Vincent_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Willy_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+    "Wizard_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "section": "CToggle",
+    },
+
+    "Shane_AlcoholLines_Toggle": {
+      "Default": "true",
+      "AllowValues": "true, false",
+      "description": "If set to false, removes the lines related to gifting Shane alcohol. This is primarily for compatibility with mods that modify Shane's tastes more thoroughly.",
+      "section": "Misc",
+    },
+
   },
 
   "Changes": [
     {
+      "When": {
+        "Abigail_Toggle": "true"
+      },
       "Action": "Include",
-      "FromFile": "GiftDialogue/Abigail.json,GiftDialogue/Alex.json,GiftDialogue/Caroline.json,GiftDialogue/Clint.json,GiftDialogue/Demetrius.json,GiftDialogue/Dwarf.json,GiftDialogue/Elliott.json,GiftDialogue/Emily.json,GiftDialogue/Evelyn.json,GiftDialogue/George.json,GiftDialogue/Gus.json,GiftDialogue/Haley.json,GiftDialogue/Harvey.json,GiftDialogue/Jas.json,GiftDialogue/Jodi.json,GiftDialogue/Kent.json,GiftDialogue/Krobus.json,GiftDialogue/Leah.json,GiftDialogue/Lewis.json,GiftDialogue/Linus.json,GiftDialogue/Marnie.json,GiftDialogue/Maru.json,GiftDialogue/Pam.json,GiftDialogue/Penny.json,GiftDialogue/Pierre.json,GiftDialogue/Robin.json,GiftDialogue/Sam.json,GiftDialogue/Sandy.json,GiftDialogue/Sebastian.json,GiftDialogue/Shane.json,GiftDialogue/Vincent.json,GiftDialogue/Willy.json,GiftDialogue/Wizard.json"
+      "FromFile": "GiftDialogue/Abigail.json"
+    },
+    {
+      "When": {
+        "Alex_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Alex.json"
+    },
+    {
+      "When": {
+        "Caroline_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Caroline.json"
+    },
+    {
+      "When": {
+        "Clint_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Clint.json"
+    },
+    {
+      "When": {
+        "Demetrius_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Demetrius.json"
+    },
+    {
+      "When": {
+        "Dwarf_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Dwarf.json"
+    },
+    {
+      "When": {
+        "Elliott_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Elliott.json"
+    },
+    {
+      "When": {
+        "Emily_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Emily.json"
+    },
+    {
+      "When": {
+        "Evelyn_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Evelyn.json"
+    },
+    {
+      "When": {
+        "George_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/George.json"
+    },
+    {
+      "When": {
+        "Gus_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Gus.json"
+    },
+    {
+      "When": {
+        "Haley_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Haley.json"
+    },
+    {
+      "When": {
+        "Harvey_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Harvey.json"
+    },
+    {
+      "When": {
+        "Jas_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Jas.json"
+    },
+    {
+      "When": {
+        "Jodi_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Jodi.json"
+    },
+    {
+      "When": {
+        "Kent_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Kent.json"
+    },
+    {
+      "When": {
+        "Krobus_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Krobus.json"
+    },
+    {
+      "When": {
+        "Leah_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Leah.json"
     },
     {
       "When": {
@@ -26,6 +319,111 @@
       },
       "Action": "Include",
       "FromFile": "GiftDialogue/Leo.json,GiftDialogue/LeoMainland.json"
+    },
+    {
+      "When": {
+        "Lewis_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Lewis.json"
+    },
+    {
+      "When": {
+        "Linus_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Linus.json"
+    },
+    {
+      "When": {
+        "Marnie_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Marnie.json"
+    },
+    {
+      "When": {
+        "Maru_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Maru.json"
+    },
+    {
+      "When": {
+        "Pam_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Pam.json"
+    },
+    {
+      "When": {
+        "Penny_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Penny.json"
+    },
+    {
+      "When": {
+        "Pierre_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Pierre.json"
+    },
+    {
+      "When": {
+        "Robin_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Robin.json"
+    },
+    {
+      "When": {
+        "Sam_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Sam.json"
+    },
+    {
+      "When": {
+        "Sandy_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Sandy.json"
+    },
+    {
+      "When": {
+        "Sebastian_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Sebastian.json"
+    },
+    {
+      "When": {
+        "Shane_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Shane.json"
+    },
+    {
+      "When": {
+        "Vincent_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Vincent.json"
+    },
+    {
+      "When": {
+        "Willy_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Willy.json"
+    },
+    {
+      "When": {
+        "Wizard_Toggle": "true"
+      },
+      "Action": "Include",
+      "FromFile": "GiftDialogue/Wizard.json"
     }
   ]
 
