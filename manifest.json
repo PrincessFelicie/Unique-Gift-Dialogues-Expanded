@@ -1,7 +1,7 @@
 {
   "Name": "Unique Gift Dialogues Expanded",
   "Author": "PrincessFelicie",
-  "Version": "1.1.2",
+  "Version": "2.0.0",
   "Description": "Adds new, custom reactions to NPCs upon being gifted specific gifts.",
   "UniqueID": "PrincessFelicie.UniqueGiftDialoguesExpanded",
   "UpdateKeys": ["Nexus:21501"],
@@ -11,7 +11,12 @@
   "Dependencies": [
     {
       "UniqueID": "spacechase0.SpaceCore",
-      "IsRequired": "true"
+      "IsRequired": "true",
+      "MinimumVersion": "1.22.0",
+    },
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": "false",
     }
   ]
 }

@@ -10,7 +10,8 @@ He has no lines for birthday presents. SVE doesn't change that.*/
     "Entries": {
 
       "AcceptGift_(O)155": "{{i18n:UGDE.Wizard_(O)155}}", //Super Cucumber
-      //TODO Purple Mushroom
+      "AcceptGift_(O)422": "{{i18n:UGDE.Wizard_(O)422}}", //Purple Mushroom
+      "AcceptGift_Book_Mystery": "{{i18n:UGDE.Wizard_Book_Mystery}}", //Book of Mysteries
       //TODO Void Essence. Will require a toggle for SVE
       //TODO after quest, change to "If you are requesting that I forge you your own wizard's staff, you are not ready for one yet."
       //TODO "AcceptBirthdayGift_Positive"
