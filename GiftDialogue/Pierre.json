@@ -10,7 +10,7 @@ He has no lines for birthday presents.*/
 
       "AcceptGift_(O)202": "{{i18n:UGDE.Pierre_(O)202}}", //Fried Calamari
       //TODO Sashimi
-      //TODO "AcceptBirthdayGift_Positive"
+      "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Pierre_BirthdayGiftPositive}}",//Loved, liked, neutral birthday gift
       "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Pierre_BirthdayGiftNegative}}", //Disliked or hated birthday gift
 
     }

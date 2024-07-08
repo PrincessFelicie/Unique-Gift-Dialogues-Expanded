@@ -241,7 +241,7 @@
     "UGDE.Pam_(O)24_PennyMarried": "Now that looks delicious, kid! Guess I'll try cooking tonight. Thanks.$h#$b#It's hard without Penny around, but... If she's happy on the farm, I'm happy.",
     "UGDE.Pam_(O)199": "Smells like it warms the heart, just the way I like it... Thank you, kid. I'm eating healthy today.$h",
     "UGDE.Pam_(O)90_Trailer": "If there was room in the trailer, I'd probably grow one of these in a pot...$h#$b#The fruit is delicious and the plant is low maintenance. Even someone like me could do it, right?$h#$b#Anyway... Thanks for listening to an older lady's ramblings.",
-    "UGDE.Pam_(O)90_House": "Hmm... Well, maybe now's the time to revisit that idea.$h#$e#I should ask Granny Mullner if she has a pot to lend next time she comes to water my plants...#$b#She'd probably be delighted.",
+    "UGDE.Pam_(O)90_House": "Hmm... Well, maybe now's the time to revisit an old idea.$h#$e#I should ask Granny Mullner if she has a pot to lend next time she comes to water my plants...#$b#She'd probably be delighted.",
 
 
     //Penny
@@ -254,7 +254,7 @@
 
     //Pierre
     "UGDE.Pierre_(O)202": "*munch munch* Yum! Delicious! Tastes just like my wife's...$h#$b# Did she give you the recipe? Please, keep them coming!$h",
-    //"UGDE.Pierre_BirthdayGiftPositive"
+    "UGDE.Pierre_BirthdayGiftPositive": "What a nice birthday gift! You know how to pick 'em, @.$h#$e#I suppose you'll want me to return the favor... When's your birthday, anyway?#$b#Uh... Wait, *when* is that?$4",
     "UGDE.Pierre_BirthdayGiftNegative": "Honestly, just get me a gift card next year.$s#$e#Forget the gift card even, just give me money! That can't ever go wrong!$h",
 
     //Robin
