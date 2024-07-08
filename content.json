@@ -3,7 +3,7 @@
   //You can report it on NexusMods (either of Posts or Forum is fine) https://www.nexusmods.com/stardewvalley/mods/21501
   //Or on Github https://github.com/PrincessFelicie/Unique-Gift-Dialogues-Expanded/issues
 
-  "Format": "2.0.2",   //This is the edition of Content Patcher needed to run your mod. When in doubt, use the latest edition.
+  "Format": "2.0.2",   //Content Patcher version requirement
 
   "ConfigSchema": {
     "Abigail_Toggle": {
