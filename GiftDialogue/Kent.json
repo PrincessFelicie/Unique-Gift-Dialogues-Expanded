@@ -11,8 +11,8 @@ He has no lines for birthday presents.*/
       "AcceptGift_category_cooking": "{{i18n:UGDE.Kent_category_cooking}}", //Cooking recipes
       "AcceptGift_(O)607": "{{i18n:UGDE.Kent_(O)607_1}}#$e#{{i18n:UGDE.Kent_(O)607_2}}#$e#{{i18n:UGDE.Kent_(O)607_3}}"//Roasted Hazelnuts
       //TODO Starfruit
-      //TODO AcceptBirthdayGift_Positive
-      //TODO AcceptBirthdayGift_Negative. Split 5 ways if inspired
+      "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Kent_AcceptBirthdayGift_Positive}}",
+      "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Kent_AcceptBirthdayGift_Negative}}"
 
     }
   }

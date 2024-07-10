@@ -143,6 +143,8 @@
     "UGDE.Gus_(O)648": "Why would you do this to a perfectly good cabbage...",
     "UGDE.Gus_(O)213_1": "Now that's a proper use for a red cabbage! The tuna really helps bring it all together. Thanks!",
     "UGDE.Gus_(O)213_2": "I wouldn't recommend gifting one to Emily. It could be a fish allergy? I'm not sure...#$b#I've seen her turn up her nose at more than a few fish-based dishes.",
+    "UGDE.Gus_AcceptBirthdayGift_Positive": "Oh, for my birthday? There was really no need, but thank you!$h",
+    "UGDE.Gus_AcceptBirthdayGift_Negative": "A birthday gift? ...Oh. Hm. Thanks...$s",
 
     //Haley
     "UGDE.Haley_(O)221_early": "Is this the Queen of Sauce's famous pink cake? I've been dying for another bite for so long! Thanks!$h#$e#I sent a letter to the show asking for the recipe, but they must be backed up...",
@@ -169,7 +171,8 @@
     "UGDE.Jodi_(O)203": "Isn't that Gus's...?$4#$b#Oh, it is. Blech...$s#$e#Not every experiment comes to fruition, let's say...",
     "UGDE.Jodi_(O)190_Early": "A cauliflower! Hmm... You've given me a few ideas. Thank you.#$e#I'll experiment with a few dishes using this one... If all goes well, I might request another soon, alright?",
     "UGDE.Jodi_(O)190_AfterQuest": "Another cauliflower! Thank you.#$e#It's hard to get Vincent to eat his greens, but yellow curry always does the trick.",
-
+    "UGDE.Jodi_AcceptBirthdayGift_Positive": "Oh, what a wonderful birthday gift! Thank you!$h",
+    "UGDE.Jodi_AcceptBirthdayGift_Negative": "Ah... For my birthday? It's not worse than Vincent's gift, I suppose...$s",
 
     //Kent
     "UGDE.Kent_category_cooking": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a soldier.",
@@ -178,7 +181,9 @@
     "UGDE.Kent_(O)607_2": "I used to make these myself when I was a kid, playing in the forest.$h#$b# I'd start a campfire like I was taught and roast them over an open flame.$h#$b#I took fire safety very seriously, and always triple-checked that I'd doused it properly.$5",
     "UGDE.Kent_(O)607_3": "That meticulous attitude ended up saving my life on the battlefield...$2#$b#Don't tell Jodi I said that.$0",
     "UGDE.Kent_(O)607_3.DSV": "That meticulous attitude ended up saving my life over in Gotoro...$2#$b#Don't tell Jodi I said that.$0",
-
+    "UGDE.Kent_AcceptBirthdayGift_Positive": "Do you give birthday gifts to everyone in town? That's very neighborly.$h",
+    "UGDE.Kent_AcceptBirthdayGift_Negative": "A gift for my birthday? They can't all be winners, I suppose.$s",
+    
     //Krobus
     "UGDE.Krobus_(O)203": "May I...? *munch munch* Oh wow... Is this really human cuisine? I've never tasted anything more delicious!$h#$e#Most of your people's cooking has disappointed me, but this is an exception.",
     "UGDE.Krobus_(O)265": "It kind of smells like the sewers, but... better. Thank you.",
@@ -188,25 +193,30 @@
     "UGDE.Leah_(O)348": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of wine at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
     "UGDE.Leah_(O)350.DSV": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of juice at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
     "UGDE.Leah_BirthdayGiftNegative": "No offense, but your birthday gift instincts are as bad as my ex's.$s",
-    "UGDE.Leah_BirthdayGiftNegative_10Hearts": "Urgh... You couldn't have known, but that was the last thing Kel gifted me on my birthday before we broke up.$s#$e#Yes, it was one of the reasons why.$s#$b#Ah well, I refuse to let that ruin my birthday! You'll do better next year, @.",
+    "UGDE.Leah_BirthdayGiftNegative_10Hearts": "Urgh... You couldn't have known, but that was the last birthday gift Kel gave me before we broke up.$s#$e#Yes, it was one of the reasons why.$s#$b#Ah well, I refuse to let that ruin my birthday! You'll do better next year, @.",
 
     //Leo
     "UGDE.Leo_(O)395": "What is this? Drink of 'beans'? *sluuurp*#$b#...uh-oh. $2#$e#>F-f-f-fly!! M-m-must f-f-fly f-f-fly f-f-fly!!!$2",
     "UGDE.Leo_(O)253": "This smells too bitter. *blech*$s",
     "UGDE.Leo_(O)444": "Oh, pretty feather! It's like my parrot ones...$h#$e#'Duck'? Is that parrot name where you're from?",
+    "UGDE.Leo_AcceptBirthdayGift_Positive": "A special day for a gift! I have eaten 400 golden walnuts more.$h#$b#And this is nice!$h",
+    "UGDE.Leo_AcceptBirthdayGift_Negative": "A special day for a gift! I have eaten 400 golden walnuts more.$h#$b#...Oh... this is bad.$s",
 
     //Leo at Mainland
     "UGDE.LeoMainland_(TR)ParrotEgg": "This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.", //!!! This is a vanilla line, present in Leo but missing from LeoMainland. If you are translating to a vanilla supported language, this line's translation already exists in the Characters/Dialogue/Leo_{your language here}.json file from the base game.
     "UGDE.LeoMainland_(O)395": "What's this? You made a drink out of beans? *sluuurp*#$b#...uh-oh. $2#$e#>I-I-I ca-a-a-an't si-i-i-it sti-i-i-i-ill...!!!$2",
     "UGDE.LeoMainland_(O)253": "This smells too bitter. I don't want that.$s",
     "UGDE.LeoMainland_(O)444": "Oh, what a pretty feather! It's like my parrot ones...$h#$e#A 'duck' feather? I'll ask Miss Penny about it!$h",
+    "UGDE.LeoMainland_Spring26": "According to the parrots, today is the anniversary of the day I washed ashore on Ginger Island... It's a bit like a birthday, right?",
+    "UGDE.LeoMainland_AcceptBirthdayGift_Positive": "Thank you so much! This really helps make today feel special.$h",
+    "UGDE.LeoMainland_AcceptBirthdayGift_Negative": "I thought birthday gifts were supposed to be good... Did I misunderstand? Human culture is confusing...$s",
 
     //Lewis
     "UDGE.Lewis_(O)200": "You truly do take after your grandfather... Ever the thoughtful gift in mind! Thank you, @!$h",
 
     //Linus
     "UGDE.Linus_DesertForage": "Did you bring this back all the way from the desert just for me? Thank you!$h",
-    "UGDE.Linus_(O)283": "Thank you! This will liven up my tent a little bit.$h",
+    "UGDE.Linus_flowers_and_decoration": "Thank you! This will liven up my tent a little bit.$h", //Flowers, Holly and Daffodil.
 
     //Marnie
     "UGDE.Marnie_(O)221_1": "Oh my, what's the occasion? I don't remember ordering a cake... Thank you, @!$h",

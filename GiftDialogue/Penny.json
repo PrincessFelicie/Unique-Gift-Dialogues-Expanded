@@ -13,6 +13,7 @@ She has a line for loved birthday gifts, liked-and-neutral birthday gifts, and d
       "AcceptGift_(O)398": "{{i18n:UGDE.Penny_(O)398}}", //Grape
       "AcceptGift_(O)304": "{{i18n:UGDE.Penny_(O)304}}", //Hops
       "AcceptGift_(O)446": "{{i18n:UGDE.Penny_(O)446_1}}#$e#{{i18n:UGDE.Penny_(O)446_2}}#$action AddFriendshipPoints Penny -20", //Rabbit's Foot
+      //TODO Poppy
 
     }
   }

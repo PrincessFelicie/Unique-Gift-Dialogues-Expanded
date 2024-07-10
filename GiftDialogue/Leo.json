@@ -14,8 +14,8 @@ He has no lines for birthday presents.*/
       "AcceptGift_(O)253": "{{i18n:UGDE.Leo_(O)253}}", //Triple-Shot Expresso
       "AcceptGift_(O)444": "{{i18n:UGDE.Leo_(O)444}}", //Duck Feather
       //TODO Nautilus Shell
-      //TODO "AcceptBirthdayGift_Positive"
-      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
+      "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Leo_AcceptBirthdayGift_Positive}}",
+      "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Leo_AcceptBirthdayGift_Negative}}"
 
     }
   }
