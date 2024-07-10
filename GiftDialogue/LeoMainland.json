@@ -15,8 +15,9 @@ He has no lines for birthday presents.*/
       "AcceptGift_(O)253": "{{i18n:UGDE.LeoMainland_(O)253}}[253]", //Triple-Shot Expresso
       "AcceptGift_(O)444": "{{i18n:UGDE.LeoMainland_(O)444}}", //Duck Feather
       //TODO Nautilus Shell
-      //TODO "AcceptBirthdayGift_Positive"
-      //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
+      "Spring26": "{{i18n:UGDE.LeoMainland_Spring26}}", //Birthday day dialogue
+      "AcceptBirthdayGift_Positive": "{{i18n:UGDE.LeoMainland_AcceptBirthdayGift_Positive}}", //Loved, liked, neutral birthday gift
+      "AcceptBirthdayGift_Negative": "{{i18n:UGDE.LeoMainland_AcceptBirthdayGift_Negative}}", //Disliked, hated birthday gift
 
     }
   }

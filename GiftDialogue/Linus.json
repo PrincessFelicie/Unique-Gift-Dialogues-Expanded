@@ -10,7 +10,10 @@ He has no lines for birthday presents.*/
 
       "AcceptGift_(O)88": "{{i18n:UGDE.Linus_DesertForage}}", //Coconut
       "AcceptGift_(O)90": "{{i18n:UGDE.Linus_DesertForage}}", //Cactus Fruit
-      "AcceptGift_(O)283": "{{i18n:UGDE.Linus_(O)283}}", //Holly... Don't eat it, Linus :(
+      "AcceptGift_(O)283": "{{i18n:UGDE.Linus_flowers_and_decoration}}", //Holly... Don't eat it, Linus :(
+      "AcceptGift_(O)18": "{{i18n:UGDE.Linus_flowers_and_decoration}}", //Daffodil, which is toxic too.
+      "AcceptGift_category_flowers": "{{i18n:UGDE.Linus_flowers_and_decoration}}", //Flowers in general.
+      //TODO Salmonberry, in and out of season
       //TODO "AcceptBirthdayGift_Positive"
       //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
 
