@@ -13,7 +13,7 @@ She has a line for loved-to-neutral birthday gifts, and a line for disliked-and-
       "AcceptGift_(O)307": "{{i18n:UGDE.Abigail_Mayo1}}$h#$e#%revealtasteCaroline306 %revealtasteCaroline307{{i18n:UGDE.Abigail_Mayo2}}$h#$e#%revealtasteSam306 %revealtasteSebastian306 %revealtasteSam307 %revealtasteSebastian307{{i18n:UGDE.Abigail_Mayo3}}$h", //Duck Mayonnaise
       "AcceptGift_(O)128": "{{i18n:UGDE.Abigail_(O)128}}$h", //Pufferfish
       "AcceptGift_(O)276": "$query SEASON fall, DAY_OF_MONTH 19 20 21 22 23 24 25 26 27#{{i18n:UGDE.Abigail_(O)276_LateFall}}$h|{{i18n:UGDE.Abigail_(O)276_NotFall}}$h", //Pumpkin
-
+      "AcceptBirthdayGift_(O)276": "{{UGDE.Abigail_Birthday(O)276}}",
     }
   }
 ]}
