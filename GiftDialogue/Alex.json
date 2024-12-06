@@ -11,6 +11,10 @@ He has a line for loved birthday gifts, and a line for disliked-and-hated birthd
       "AcceptGift_(O)201": "{{i18n:UGDE.Alex_(O)306}}", //Complete Breakfast
       "AcceptBirthdayGift_Liked": "{{i18n:UGDE.Alex_BirthdayGiftLiked}}", //Liked birthday gift
       "AcceptBirthdayGift_Neutral": "{{i18n:UGDE.Alex_BirthdayGiftNeutral}}", //Neutral birthday gift
+      //TODO Cookies
+      //TODO Mayonnaise (single line for chicken & duck)
+      //TODO Void Mayonnaise
+      //TODO Dino Mayo
     }
   }
 ]}

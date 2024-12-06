@@ -13,9 +13,14 @@ She has no lines for birthday presents.*/
       "AcceptGift_(O)18": "{{i18n:UGDE.Evelyn_category_flowers}}", //Daffodil, which is considered a forage rather than a flower
       "AcceptGift_(O)595": "{{i18n:UGDE.Evelyn_(O)595}}", //Fairy Rose
       "AcceptGift_Raisins": "{{i18n:UGDE.Evelyn_Raisins_1}}#$e#{{i18n:UGDE.Evelyn_Raisins_2}}", //Raisins... In case that wasn't obvious
-      "AcceptBirthdayGift_Positive": "{{i18n:UDGE.Evelyn_BirthdayGiftPositive}}", //Loved, liked, neutral birthday gift
-      "AcceptBirthdayGift_Negative": "{{i18n:UDGE.Evelyn_BirthdayGiftNegative}}", //Disliked, hated birthday gift
+      "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Evelyn_BirthdayGiftPositive}}", //Loved, liked, neutral birthday gift
+      "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Evelyn_BirthdayGiftNegative}}", //Disliked, hated birthday gift
       //TODO 284 Beet
+      //TODO 148 Eel
+      //TODO 162 Lava Eel
+      //TODO 225 Fried Eel
+      //TODO 226 Spicy Eel
+
 
     }
   }

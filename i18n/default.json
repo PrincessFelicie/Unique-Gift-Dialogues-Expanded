@@ -49,7 +49,7 @@
     "UGDE.Abigail_(O)128": "Woah, that fish looks so weird! I love it!",
     "UGDE.Abigail_(O)276_LateFall": "The best thing about pumpkins is that nothing goes to waste. The inside is tasty and the outside makes a sick jack-o-lantern! Thanks!",
     "UGDE.Abigail_(O)276_NotFall": "That looks mouthwatering... Thank you, @!",
-    "UGDE.Abigail_Birthday(O)276": "Woah! A pumpkin on my birthday!? That's some fertilizer you're using! Thanks a lot, @!$h#$e#You have no idea the kind of existential anguish being born *juuust* too early for your favorite treat to be in bloom in time for your birthday can cause.",
+    "UGDE.Abigail_Birthday(O)276": "Woah! A pumpkin on my birthday!? That's some fertilizer you're using! Thanks a lot, @!$h#$e#You have no idea the kind of existential anguish being born *juuust* a tad too early for your favorite treat to be in bloom in time for your birthday can cause.",
 
     //Alex
     "UGDE.Alex_(O)306": "Proteins and calories, the building blocks of champions! Thanks, @!$h#$e#Now... Let's dig in! *slurp* *munch* *munch* *gulp* Time! That's a new record!$0",
@@ -102,6 +102,8 @@
     "UGDE.Dwarf_(O)78_Tuesday": "Heard me muttering earlier, I see... Did you bring one back just for me? That's very kind, human.",
     "UGDE.Dwarf_(O)78_NotTuesday": "A cave carrot! I could eat these every day. Thanks.",
     "UGDE.Dwarf_Carrot": "Is this a surface carrot? I didn't expect it to be so... orange.",
+    "UGDE.Dwarf_(O)162": "Hahahah, excellent catch! You wouldn't make half bad a dwarf!",
+    "UGDE.Dwarf_(O)226": "Intriguing! What a mellow taste... This is unmistakably a human version of the classic seared lava eel, but how did you make it so mild?",
 
 
     //Elliott
@@ -118,12 +120,12 @@
     //Evelyn
     "UGDE.Evelyn_(O)20_Early": "Thank you, dear. Give this to George next time, I know he would enjoy it very much.",
     "UGDE.Evelyn_(O)20_AfterSpecial": "It was so kind of you to help with George's surprise gift. I'll make sure this finds him too.",
-    "UGDE.Evelyn_category_flowers": "Ah, don't they smell lovely...! I will find a matching vase to put them in. Thank you, dear.$h",
+    "UGDE.Evelyn_category_flowers": "Ah, don't they look and smell lovely...! I will find a matching vase to put them in. Thank you, dear.$h",
     "UGDE.Evelyn_(O)595": "Oh my, I wouldn't mind a little visit from a friendly fairy! Maybe this will be just what I need to invite one over tea...$h#$e#I spotted one near your farm once, when I was much younger. Of course, it was your grandfather's at the time...",
     "UGDE.Evelyn_Raisins_1": "These taste just wonderful, my dear! Good old %farm Farm raisins... How I missed the taste.$h",
     "UGDE.Evelyn_Raisins_2": "Your grandfather used to make so many of these ahead of any harvest, more than I could ever buy from him.#$b#I must not have been the only raisin lover in the Valley... *wink*",
-    "UDGE.Evelyn_BirthdayGiftPositive": "Oh, this is very kind of you, dear! Even after all these years, my birthday still feels special.",
-    "UDGE.Evelyn_BirthdayGiftNegative": "Oh... Is this a birthday gift? Bless your heart, dear.",
+    "UGDE.Evelyn_BirthdayGiftPositive": "Oh, this is very kind of you, dear! Even after all these years, my birthday still feels special.",
+    "UGDE.Evelyn_BirthdayGiftNegative": "Oh... Is this a birthday gift? Bless your heart, dear.",
 
     //George
     "UGDE.George_(O)20": "*sniff sniff* That amazing smell... Did she put you up to this? Bah, this is great either way!$h",
@@ -131,8 +133,8 @@
     "UGDE.George_(O)260_Early": "Hmm? *grumble* #$e#Don't think I need any, do I? Bah, I'm sure I've got enough.$2#$b#Hey, can't an old man mumble to himself in peace? Go away.$3",
     "UGDE.George_(O)260_AfterQuest": "My knee's doing fine today, but thanks. I'll stash that one for another day.#$b#Yoba knows the thing acts up as it pleases.",
     "UGDE.George_(O)284": "A beet...#$b#...#$b#That's Evelyn's favorite. But you didn't hear it from me, alright?",
-    "UDGE.George_BirthdayGiftPositive": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift? Sure.$0",
-    "UDGE.George_BirthdayGiftNegative": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift?$0#$b#...Yoba, if you exist, just take me already.$3",
+    "UGDE.George_BirthdayGiftPositive": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift? Sure.$0", //TODO Split into neutral and lovedliked, comes off as too dark on good gifts
+    "UGDE.George_BirthdayGiftNegative": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift?$0#$b#...Yoba, if you exist, just take me already.$3",
 
     //Gus
     "UGDE.Gus_(O)72": "Ah! So you noticed the bear statue's missing eye? This will make a perfect replacement, @!$h",
@@ -213,7 +215,7 @@
     "UGDE.LeoMainland_AcceptBirthdayGift_Negative": "I thought birthday gifts were supposed to be good... Did I misunderstand? Human culture is confusing...$s",
 
     //Lewis
-    "UDGE.Lewis_(O)200": "You truly do take after your grandfather... Ever the thoughtful gift in mind! Thank you, @!$h",
+    "UGDE.Lewis_(O)200": "You truly do take after your grandfather... Ever the thoughtful gift in mind! Thank you, @!$h",
 
     //Linus
     "UGDE.Linus_DesertForage": "Did you bring this back all the way from the desert just for me? Thank you!$h",
@@ -270,14 +272,14 @@
 
     //Robin
     "UGDE.Robin_(O)224": "Oh, this tomato sauce is just divine! Did you make this yourself, or buy it at the saloon? I'm fine with either, honestly! Thank you @!$h",
-    "UGDE.Robin_(O)709": "Mahogany has such a premium feel to it... I can never have enough! Thanks, @!$h#$e#Speaking of, my desk is made of mahogany! That makes it nigh indestructible.",
+    "UGDE.Robin_(O)709": "Mahogany has such a premium feel to it... I can never have enough! Thanks, @!$h#$e#Speaking of, my desk is made of mahogany! That makes it nigh indestructible.", //You will never take me alive
 
     //Sam
     "UGDE.Sam_(O)90": "Aw yeah, you brought me back a prickly pear? You're the best, @!",
     "UGDE.Sam_Mayo": "No... Not again... Noooo!!!$8",
 
     //Sandy
-    "UGDE.Sandy_(O)88": "You braved the heat outside to bring me this? Thanks! Coconut juice is just delish~$h",
+    "UGDE.Sandy_(O)88": "You braved the heat outside to bring me this? Thanks! Coconut milk is just delicious!$h",
     "UGDE.Sandy_(O)90": "Thank you! It's just what I need on a hot day like this.#$e#I know I could find some right outside, but I prefer to stay here, where the air conditioner is.",
 
     //Sebastian

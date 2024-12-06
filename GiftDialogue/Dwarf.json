@@ -17,6 +17,8 @@ He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthda
       "AcceptGift_(O)99": "$query !PLAYER_HAS_MAIL Current UGDE_DScrollStarted#{{i18n:UGDE.Dwarf_ScrollIntro}}#$b#{{i18n:UGDE.Dwarf_Scroll4_1st}}#$action AddMail Current UGDE_DScrollStarted|{{i18n:UGDE.Dwarf_Scroll4_nth}}", //Dwarf Scroll IV
       "AcceptGift_(O)78":  "$query DAY_OF_WEEK Tuesday#{{i18n:UGDE.Dwarf_(O)78_Tuesday}}#$action AddFriendshipPoints Dwarf 35|{{i18n:UGDE.Dwarf_(O)78_NotTuesday}}", //Cave Carrot. Gifting him one on Tuesdays will bump the friendship gain to a Loved gift.
       "AcceptGift_(O)Carrot":  "{{i18n:UGDE.Dwarf_Carrot}}", //Carrot
+      "AcceptGift_(O)162": "{{i18n:UGDE.Dwarf_(O)162}}", //Lava Eel
+      "AcceptGift_(O)226": "{{i18n:UGDE.Dwarf_(O)226}}", //Spicy Eel
 
     }
   }
