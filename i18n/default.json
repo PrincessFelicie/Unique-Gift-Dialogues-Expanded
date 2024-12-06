@@ -108,7 +108,6 @@
 
     //Elliott
     "UGDE.Elliott_(O)715": "A beautiful lobster! Visualize it grilled over a campfire... Tonight, I shall enjoy a crustacean feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.",
-    "UGDE.Elliott_(O)705.DSV": "A beautiful albacore! Visualize it grilled over a campfire... Tonight, I shall enjoy an oceanic feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.",
 
     //Emily
     "UGDE.EmilyBlessingName": "Emily's Blessing",
@@ -133,7 +132,8 @@
     "UGDE.George_(O)260_Early": "Hmm? *grumble* #$e#Don't think I need any, do I? Bah, I'm sure I've got enough.$2#$b#Hey, can't an old man mumble to himself in peace? Go away.$3",
     "UGDE.George_(O)260_AfterQuest": "My knee's doing fine today, but thanks. I'll stash that one for another day.#$b#Yoba knows the thing acts up as it pleases.",
     "UGDE.George_(O)284": "A beet...#$b#...#$b#That's Evelyn's favorite. But you didn't hear it from me, alright?",
-    "UGDE.George_BirthdayGiftPositive": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift? Sure.$0", //TODO Split into neutral and lovedliked, comes off as too dark on good gifts
+    "UGDE.George_BirthdayGiftPositive": "Why am I not surprised to see you remembered my birthday?$h#$e#Look, @... I know I can be... unappreciative, sometimes.$s#$b#But it's nice to know someone around here cares about us oldies. You're a good kid.$h",
+    "UGDE.George_BirthdayGiftNeutralOrUnfriendly": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift? Sure.$0", //Plays for neutral gifts, and for positive gifts when under 6 hearts with George.
     "UGDE.George_BirthdayGiftNegative": "Another year, another step closer to the grave...$2#$b#Hmm? A birthday gift?$0#$b#...Yoba, if you exist, just take me already.$3",
 
     //Gus
@@ -166,7 +166,7 @@
     "UGDE.Jas_Cake_1": "I hope this cake is as delicious as it is pretty! I love it! *giggle*$h",
     "UGDE.Jas_Cake_2a": "I wonder if I should share with Vincent and Miss Penny... The cake is pretty big.$u",
     "UGDE.Jas_Cake_2b": "I wonder if I should share with Shane and Aunt Marnie... The cake is pretty big.$u",
-    "UGDE.Jas_category_artisan_goods": "I don't think this is appopri... approprira... okay for my age.$s",
+    "UGDE.Jas_category_artisan_goods": "I don't think this is for kids.$s", //I originally had her twisting her tongue trying to pronounce appropriate, but that's too kiddy for her.
 
     //Jodi
     "UGDE.Jodi_category_cooking": "Trying out cooking? Maybe you, Gus and I should swap recipes...$h#$e#There's no better path to a hefty cookbook than befriending people, if you ask me.#$b# Everybody's got a recipe or two they share with friends!$h",
@@ -179,11 +179,9 @@
 
     //Kent
     "UGDE.Kent_category_cooking": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a soldier.",
-    "UGDE.Kent_category_cooking.DSV": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a husband.",
     "UGDE.Kent_(O)607_1": "This brings back good memories... Thanks.$h",
     "UGDE.Kent_(O)607_2": "I used to make these myself when I was a kid, playing in the forest.$h#$b# I'd start a campfire like I was taught and roast them over an open flame.$h#$b#I took fire safety very seriously, and always triple-checked that I'd doused it properly.$5",
     "UGDE.Kent_(O)607_3": "That meticulous attitude ended up saving my life on the battlefield...$2#$b#Don't tell Jodi I said that.$0",
-    "UGDE.Kent_(O)607_3.DSV": "That meticulous attitude ended up saving my life over in Gotoro...$2#$b#Don't tell Jodi I said that.$0",
     "UGDE.Kent_AcceptBirthdayGift_Positive": "Do you give birthday gifts to everyone in town? That's very neighborly.$h",
     "UGDE.Kent_AcceptBirthdayGift_Negative": "A gift for my birthday? They can't all be winners, I suppose.$s",
   
@@ -194,7 +192,6 @@
 
     //Leah
     "UGDE.Leah_(O)348": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of wine at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
-    "UGDE.Leah_(O)350.DSV": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of juice at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
     "UGDE.Leah_BirthdayGiftNegative": "No offense, but your birthday gift instincts are as bad as my ex's.$s",
     "UGDE.Leah_BirthdayGiftNegative_10Hearts": "Urgh... You couldn't have known, but that was the last birthday gift Kel gave me before we broke up.$s#$e#Yes, it was one of the reasons why.$s#$b#Ah well, I refuse to let that ruin my birthday! You'll do better next year, @.",
 
@@ -215,7 +212,7 @@
     "UGDE.LeoMainland_AcceptBirthdayGift_Negative": "I thought birthday gifts were supposed to be good... Did I misunderstand? Human culture is confusing...$s",
 
     //Lewis
-    "UGDE.Lewis_(O)200": "You truly do take after your grandfather... Ever the thoughtful gift in mind! Thank you, @!$h",
+    "UGDE.Lewis_Loved_category_cooking": "You truly do take after your grandfather... He too knew how to befriend my stomach! Thank you, @!$h",
 
     //Linus
     "UGDE.Linus_DesertForage": "Did you bring this back all the way from the desert just for me? Thank you!$h",
@@ -285,7 +282,7 @@
     //Sebastian
     "UGDE.Sebastian_(O)84": "A frozen tear... That sounds so poetic. What kind of tragedy is preserved inside?$h",
     "UGDE.Sebastian_category_artisan_goods": "I'm not a \"loves cooking\" kind of person.",
-    "UGDE.Sebastian_(O)428": "This is just going to gather dust somewhere...",
+    "UGDE.Sebastian_artisan_goods_not_food": "This is just going to gather dust somewhere...",
     "UGDE.Sebastian_category_egg": "Eggs... People must be joking when they say they like eggs, right? This is awful.",
     "UGDE.Sebastian_Coffee&Tea": "Thanks. I was feeling a little drowsy.",
     "UGDE.Sebastian_(O)253": "Thanks. I was feeling a little drowsy.#$b#*siip* Woah! That packs more of a punch than I expected.$0",
@@ -320,4 +317,9 @@
     "UGDE.Wizard_(O)422": "A purple mushroom in excellent condition! Put it on the shelf near the others. I never have enough.$h#$e#If you have ever given one a taste, you might have noticed its incredible potency.#$b#I believe this species is a variant of the more poisonous red mushroom, enhanced by root network contact with a Stardrop tree grove.#$e#Though where that grove is, this knowledge eludes even me...",
     "UGDE.Wizard_Book_Mystery": "*flip flip flip* ...A tome of esoteric knowledge. This will be of great help!$h#$e#...#$b#So, he has taken an interest in you next? Surprisingly unsurprising.#$b#I will at least say this: he has good taste in hats.",
 
+    //Diverse SV changes, credit to AirynS
+    "UGDE.Elliott_(O)705.DSV": "A beautiful albacore! Visualize it grilled over a campfire... Tonight, I shall enjoy an oceanic feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.", //replaces lobster line
+    "UGDE.Kent_category_cooking.DSV": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a husband.", //changes 'soldier' to 'husband'
+    "UGDE.Kent_(O)607_3.DSV": "That meticulous attitude ended up saving my life over in Gotoro...$2#$b#Don't tell Jodi I said that.$0", //replaces 'on the battlefield' to 'over in Gotoro'
+    "UGDE.Leah_(O)350.DSV": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of juice at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h", //replaces wine line
 }

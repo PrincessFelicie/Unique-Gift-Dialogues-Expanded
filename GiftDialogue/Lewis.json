@@ -1,5 +1,6 @@
 /*Vanilla Lewis has no extra lines. Poor mayor.
-He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthday gifts.*/
+He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthday gifts.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -8,7 +9,8 @@ He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthda
 
     "Entries": {
 
-      "AcceptGift_(O)200": "{{i18n:UDGE.Lewis_(O)200}}", //Vegetable Medley
+      "AcceptGift_Loved_category_cooking": "{{i18n:UDGE.Lewis_Loved_category_cooking}}", //Should apply to Vegetable Medley, Glazed Yams, Autumn's bounty, and Magic Rock Candy, as well as any other loved foods that mods add to him.
+      //TODO Magic Rock Candy. Don't want it using the same line as the rest of loved foods, but that's a future problem.
       //TODO Truffle Oil
 
     }

@@ -1,5 +1,6 @@
-/*Vanilla Shane has a line for the Strange Bun. I guess they did just change his level of love for the thing.
-He has a line for loved gifts and liked birthday gifts.*/
+/*Vanilla Shane has a line for the Strange Bun. I guess they did change his level of love for the thing.
+He has a line for loved gifts and liked birthday gifts.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -26,7 +27,7 @@ He has a line for loved gifts and liked birthday gifts.*/
       "AcceptGift_(O)303": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#{{i18n:UGDE.Shane_(O)Alcohol_Item_Above6hearts}}[303]#$action AddFriendshipPoints Shane -45|{{i18n:UGDE.Shane_(O)303_Under6hearts_1}}#$e#%revealtastePam303 {{i18n:UGDE.Shane_(O)303_Under6hearts_2}}", //Pale Ale
       "AcceptGift_(O)459": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#{{i18n:UGDE.Shane_(O)Alcohol_Item_Above6hearts}}[459]#$action AddFriendshipPoints Shane -45|{{i18n:UGDE.Shane_(O)459_Under6hearts}}", //Mead
       "AcceptGift_(O)873": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#{{i18n:UGDE.Shane_(O)Alcohol_Item_Above6hearts}}[873]#$action AddFriendshipPoints Shane -45|{{i18n:UGDE.Shane_(O)873_Under6hearts}}", //Piña Colada
-      "AcceptGift_(O)348": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#{{i18n:UGDE.Shane_(O)Alcohol_Item_Above6hearts}}[348]#$action AddFriendshipPoints Shane -45|{{i18n:UGDE.Shane_(O)348_Under6hearts}}", //Wine. WIP. Ideally, want it to account for flavor in a future version
+      "AcceptGift_(O)348": "$query PLAYER_HAS_SEEN_EVENT Any 3910975#{{i18n:UGDE.Shane_(O)Alcohol_Item_Above6hearts}}[348]#$action AddFriendshipPoints Shane -45|{{i18n:UGDE.Shane_(O)348_Under6hearts}}", //Wine.
 
     }
   }

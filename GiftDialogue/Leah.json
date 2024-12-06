@@ -1,5 +1,6 @@
 /*Vanilla Leah already has lines for Driftwood, Salad, Vegetable Medley, Truffle.
-She has a line for loved-to-neutral birthday gifts.*/
+She has a line for loved-to-neutral birthday gifts.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -10,6 +11,10 @@ She has a line for loved-to-neutral birthday gifts.*/
 
       "AcceptGift_(O)348": "{{i18n:UGDE.Leah_(O)348}}", //Wine
       "AcceptBirthdayGift_Negative": "$query PLAYER_HEARTS Current Leah 10#{{i18n:UGDE.Leah_BirthdayGiftNegative_10Hearts}}|{{i18n:UGDE.Leah_BirthdayGiftNegative}}", //Disliked or hated birthday gift
+      //TODO Cheese
+      //TODO Goat Cheese
+      //TODO Stir Fry
+      //TODO Poppyseed Muffin
 
     }
   }
