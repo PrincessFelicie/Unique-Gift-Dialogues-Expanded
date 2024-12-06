@@ -108,6 +108,7 @@
 
     //Elliott
     "UGDE.Elliott_(O)715": "A beautiful lobster! Visualize it grilled over a campfire... Tonight, I shall enjoy a crustacean feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.",
+    "UGDE.Elliott_(O)705.DSV": "A beautiful albacore! Visualize it grilled over a campfire... Tonight, I shall enjoy an oceanic feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.",
 
     //Emily
     "UGDE.EmilyBlessingName": "Emily's Blessing",
@@ -177,13 +178,15 @@
     "UGDE.Jodi_AcceptBirthdayGift_Negative": "Ah... For my birthday? It's not worse than Vincent's gift, I suppose...$s",
 
     //Kent
-    "UGDE.Kent_category_cooking": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man who's favorite food isn't their spouse's cooking. Tip from a soldier.",
+    "UGDE.Kent_category_cooking": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a soldier.",
+    "UGDE.Kent_category_cooking.DSV": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a husband.",
     "UGDE.Kent_(O)607_1": "This brings back good memories... Thanks.$h",
     "UGDE.Kent_(O)607_2": "I used to make these myself when I was a kid, playing in the forest.$h#$b# I'd start a campfire like I was taught and roast them over an open flame.$h#$b#I took fire safety very seriously, and always triple-checked that I'd doused it properly.$5",
     "UGDE.Kent_(O)607_3": "That meticulous attitude ended up saving my life on the battlefield...$2#$b#Don't tell Jodi I said that.$0",
+    "UGDE.Kent_(O)607_3.DSV": "That meticulous attitude ended up saving my life over in Gotoro...$2#$b#Don't tell Jodi I said that.$0",
     "UGDE.Kent_AcceptBirthdayGift_Positive": "Do you give birthday gifts to everyone in town? That's very neighborly.$h",
     "UGDE.Kent_AcceptBirthdayGift_Negative": "A gift for my birthday? They can't all be winners, I suppose.$s",
-
+  
     //Krobus
     "UGDE.Krobus_(O)203": "May I...? *munch munch* Oh wow... Is this really human cuisine? I've never tasted anything more delicious!$h#$e#Most of your people's cooking has disappointed me, but this is an exception.",
     "UGDE.Krobus_(O)265": "It kind of smells like the sewers, but... better. Thank you.",
@@ -191,6 +194,7 @@
 
     //Leah
     "UGDE.Leah_(O)348": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of wine at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
+    "UGDE.Leah_(O)350.DSV": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of juice at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h",
     "UGDE.Leah_BirthdayGiftNegative": "No offense, but your birthday gift instincts are as bad as my ex's.$s",
     "UGDE.Leah_BirthdayGiftNegative_10Hearts": "Urgh... You couldn't have known, but that was the last birthday gift Kel gave me before we broke up.$s#$e#Yes, it was one of the reasons why.$s#$b#Ah well, I refuse to let that ruin my birthday! You'll do better next year, @.",
 
