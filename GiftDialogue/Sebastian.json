@@ -1,5 +1,6 @@
 /*Vanilla Sebastian has lines for Obsidian, Jack be Nimble Jack Be Thick, Sashimi, Void Egg, Pumpkin Soup, and the Frog Egg Trinket. What an eclectic list.
-He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthday gifts.*/
+He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthday gifts.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -10,8 +11,8 @@ He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthda
 
       "AcceptGift_(O)84": "{{i18n:UGDE.Sebastian_(O)84}}", //Frozen Tear
       "AcceptGift_category_artisan_goods": "{{i18n:UGDE.Sebastian_category_artisan_goods}}", //All artisan goods
-      "AcceptGift_(O)428": "{{i18n:UGDE.Sebastian_(O)428}}",//Cloth
-      "AcceptGift_category_egg": "{{i18n:UGDE.Sebastian_category_egg}}", //All eggs (except void egg, who's vanilla line should take precedence?)
+      "AcceptGift_(O)428": "{{i18n:UGDE.Sebastian_artisan_goods_not_food}}",//Cloth
+      "AcceptGift_category_egg": "{{i18n:UGDE.Sebastian_category_egg}}", //All eggs (except void egg, who's vanilla line should take precedence)
       "AcceptGift_(O)395": "{{i18n:UGDE.Sebastian_Coffee&Tea}}", //Coffee
       "AcceptGift_(O)614": "{{i18n:UGDE.Sebastian_Coffee&Tea}}", //Green Tea
       "AcceptGift_(O)253": "{{i18n:UGDE.Sebastian_(O)253}}", //Triple Shot Expresso

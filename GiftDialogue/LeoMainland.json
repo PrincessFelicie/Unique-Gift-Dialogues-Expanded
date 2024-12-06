@@ -1,7 +1,7 @@
-/*Vanilla Leo uses different dialogue sheets depending on whether he's reached the valley or not. Which is great! It means
-I can have this sheet have his 'wild' speech, then edit the second for once he becomes one of Penny's students.
+/*Vanilla Leo uses different dialogue sheets depending on whether he's reached the valley or not.
 This version of Leo's dialogue sheet has no AcceptGift line, outside of Stardrop Tea, like everyone.
-He has no lines for birthday presents.*/
+He has no lines for birthday presents.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -15,6 +15,10 @@ He has no lines for birthday presents.*/
       "AcceptGift_(O)253": "{{i18n:UGDE.LeoMainland_(O)253}}[253]", //Triple-Shot Expresso
       "AcceptGift_(O)444": "{{i18n:UGDE.LeoMainland_(O)444}}", //Duck Feather
       //TODO Nautilus Shell
+      //TODO Mango
+      //TODO Ostrich Egg
+      //TODO Poi
+      //TODO Taro Root
       "Spring26": "{{i18n:UGDE.LeoMainland_Spring26}}", //Birthday day dialogue
       "AcceptBirthdayGift_Positive": "{{i18n:UGDE.LeoMainland_AcceptBirthdayGift_Positive}}", //Loved, liked, neutral birthday gift
       "AcceptBirthdayGift_Negative": "{{i18n:UGDE.LeoMainland_AcceptBirthdayGift_Negative}}", //Disliked, hated birthday gift

@@ -1,5 +1,6 @@
-/*Vanilla Gus already has lines for food items, and that's it.
-He has no lines for birthday presents.*/
+/*Vanilla Gus already has a generic line for all cooking-category items that he has a positive reaction to. At the time I first started working on this mod, this line triggered for *all* food regardless of if he liked it or not, hence why a lot of the lines focused on correcting that mismatch.
+He has no lines for birthday presents.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {

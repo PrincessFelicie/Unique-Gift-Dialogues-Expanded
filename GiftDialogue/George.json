@@ -1,5 +1,6 @@
 /*Vanilla George has no extra lines.
-He has no lines for birthday presents.*/
+He has no lines for birthday presents.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -12,7 +13,8 @@ He has no lines for birthday presents.*/
       "AcceptGift_(O)205": "{{i18n:UGDE.George_(O)205}}", //Fried Mushroom
       "AcceptGift_(O)260": "$query PLAYER_HAS_MAIL Current summer_25_1 Received #{{i18n:UGDE.George_(O)260_AfterQuest}}#$action AddFriendshipPoints George 25|{{i18n:UGDE.George_(O)260_Early}}", //Hot Pepper. Moves to liked gift after completing his quest, as he appreciates the gesture.
       "AcceptGift_(O)284": "%revealtasteEvelyn284 {{i18n:UGDE.George_(O)284}}", //Beet
-      "AcceptBirthdayGift_Positive": "{{i18n:UGDE.George_BirthdayGiftPositive}}", //Loved, liked, neutral birthday gift
+      "AcceptBirthdayGift_Positive": "$query PLAYER_HEARTS Current George 6#{{i18n:UGDE.George_BirthdayGiftPositive}}|{{i18n:UGDE.George_BirthdayGiftNeutralOrUnfriendly}}", //Loved, liked birthday gift
+      "AcceptBirthdayGift_Neutral": "{{i18n:UGDE.George_BirthdayGiftNeutralOrUnfriendly}}", //Neutral birthday gift
       "AcceptBirthdayGift_Negative": "{{i18n:UGDE.George_BirthdayGiftNegative}}", //Disliked, hated birthday gift
 
     }

@@ -1,5 +1,6 @@
 /*Vanilla Sam has lines for Pizza, and... uh... *checks notes* *starts flipping pages* that's it? That feels so wrong.
-He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthday gifts.*/
+He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthday gifts.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -11,6 +12,9 @@ He has a line for loved-to-neutral birthday gifts and disliked-and-hated birthda
       "AcceptGift_(O)90": "{{i18n:UGDE.Sam_(O)90}}", //Cactus Fruit
       "AcceptGift_(O)306": "{{i18n:UGDE.Sam_Mayo}}", //Mayonnaise
       "AcceptGift_(O)307": "{{i18n:UGDE.Sam_Mayo}}", //Duck Mayonnaise
+      //TODO Tigerseye
+      //TODO Maple Bar
+      //TODO Joja Cola
 
     }
   }

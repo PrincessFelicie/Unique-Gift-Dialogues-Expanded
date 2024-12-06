@@ -1,5 +1,6 @@
-/*Vanilla Penny has lines for "ancient items" (a specific set of artifacts tagged with ContextTags ancient_item), and all books.
-She has a line for loved birthday gifts, liked-and-neutral birthday gifts, and disliked-and-hated birthday gifts. That last one kind of goes harsh...*/
+/*Vanilla Penny has lines for positively-received "ancient items" (a specific set of artifacts tagged with ContextTags ancient_item), and all positively-received books. ...Which is all books when it comes to her preferences.
+She has a line for loved birthday gifts, liked-and-neutral birthday gifts, and disliked-and-hated birthday gifts. That last one kind of goes harsh...
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -14,6 +15,10 @@ She has a line for loved birthday gifts, liked-and-neutral birthday gifts, and d
       "AcceptGift_(O)304": "{{i18n:UGDE.Penny_(O)304}}", //Hops
       "AcceptGift_(O)446": "{{i18n:UGDE.Penny_(O)446_1}}#$e#{{i18n:UGDE.Penny_(O)446_2}}#$action AddFriendshipPoints Penny -20", //Rabbit's Foot
       //TODO Poppy
+      //TODO Poppyseed Muffin
+      //TODO Melon
+      //TODO Loved cooking
+      //TODO Magic Rock Candy (to separate it from other loved cooking)
 
     }
   }

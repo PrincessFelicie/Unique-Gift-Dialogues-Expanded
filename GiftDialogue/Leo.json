@@ -1,7 +1,8 @@
 /*Vanilla Leo uses different dialogue sheets depending on whether he's reached the valley or not. Which is great! It means
 I can have this sheet have his 'wild' speech, then edit the second for once he becomes one of Penny's students.
 This version of Leo's dialogue sheet has a line for the Parrot Egg trinket.
-He has no lines for birthday presents.*/
+He has no lines for birthday presents.
+Last verified: 1.6.14*/
 
 {"Changes": [
   {
@@ -14,6 +15,10 @@ He has no lines for birthday presents.*/
       "AcceptGift_(O)253": "{{i18n:UGDE.Leo_(O)253}}", //Triple-Shot Expresso
       "AcceptGift_(O)444": "{{i18n:UGDE.Leo_(O)444}}", //Duck Feather
       //TODO Nautilus Shell
+      //TODO Mango
+      //TODO Ostrich Egg
+      //TODO Poi
+      //TODO Taro Root
       "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Leo_AcceptBirthdayGift_Positive}}",
       "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Leo_AcceptBirthdayGift_Negative}}"
 
