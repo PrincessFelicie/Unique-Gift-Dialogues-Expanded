@@ -424,7 +424,13 @@
       },
       "Action": "Include",
       "FromFile": "GiftDialogue/Wizard.json"
+    },
+    {
+      "When": {
+        "HasMod": "DSV.Core"
+      },
+      "Action": "Include",
+      "FromFile": "Compatibility/DSVCompatibility.json"
     }
   ]
-
 }

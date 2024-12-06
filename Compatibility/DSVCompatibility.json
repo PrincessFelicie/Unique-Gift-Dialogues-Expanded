@@ -1,0 +1,45 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Elliott",
+            "Entries": {
+                "AcceptGift_(O)715": null, //Removing lobster
+                "AcceptGift_(O)705": "{{i18n:UGDE.Elliott_(O)705.DSV}}" //Jewish Elliott replaces lobster with albacore
+            },
+            "When": {
+                "Elliott_Toggle": "true",
+                "HasMod |contains= DSV.Core": true,
+                "DSV.Core/ConfigValue:JewishElliott": "True",
+                "DSV.Core/ConfigValue:GiftTastesChange": "True"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Kent",
+            "Entries": {
+                "AcceptGift_category_cooking": "{{i18n:UGDE.Kent_category_cooking.DSV}}", //DSV's No More War options edit Kent so that he's a war journalist instead of a soldier
+                "AcceptGift_(O)607": "{{i18n:UGDE.Kent_(O)607_1}}#$e#{{i18n:UGDE.Kent_(O)607_2}}#$e#{{i18n:UGDE.Kent_(O)607_3.DSV}}"
+            },
+            "When": {
+                "Kent_Toggle": "true",
+                "HasMod |contains= DSV.Core": true,
+                "Query: '{{DSV.Core/ConfigValue:KentVariant |contains= Omani, OmaniDisabled}}' = 'true' OR '{{HasMod |contains= ShotFromGuns.NoMoreWarKentJournalist}}' = 'true' OR '{{HasMod |contains= Mazout.NoMoreWarSFGKentReporterDeGuerre}}' = 'true' OR (('{{DSV.Core/ConfigValue:JodiVariant |contains= Modded}}' = 'true' OR '{{HasMod |contains= DSVTeam.AddOnPack.HopefulfoxJodi}}' = 'true') AND '{{DSV.Core/ConfigValue:NoMoreWarDialogueEdits}}' = 'true')": true
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Leah",
+            "Entries": {
+                "AcceptGift_(O)348": null, //Removing wine
+                "AcceptGift_(O)350": "{{i18n:UGDE.Leah_(O)350.DSV}}" //Native Leah replaces wine with juice
+            },
+            "When": {
+                "Leah_Toggle": "true",
+                "HasMod |contains= DSV.Core": true,
+                "Query: '{{DSV.Core/ConfigValue:LeahVariant |contains= Native}}' = 'true' OR '{{HasMod |contains= DSVTeam.AddOnPack.JoLeah}}' = 'true'": true,
+                "DSV.Core/ConfigValue:GiftTastesChange": "True"
+            }
+        }
+    ]
+}

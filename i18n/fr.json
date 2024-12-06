@@ -54,6 +54,7 @@
   "UGDE.Dwarf_(O)78_NotTuesday": "Une carotte de cave ! Je pourrais en manger tous les jours. Merci.",
   "UGDE.Dwarf_Carrot": "Est-ce une carotte de surface ? Je ne m'attendais pas à ce qu'elle soit si... orange.",
   "UGDE.Elliott_(O)715": "Un magnifique homard ! Imagine-le grillé sur un feu de camp... Ce soir, je vais savourer un festin de crustacés !#$h#$e#Je ne vivrais pas sur la plage si je n'aimais pas les fruits de mer",
+  "UGDE.Elliott_(O)705.DSV": "A beautiful albacore! Visualize it grilled over a campfire... Tonight, I shall enjoy an oceanic feast!$h#$e#I wouldn't be living on the beach if I didn't enjoy seafood.", //new
   "UGDE.EmilyBlessingName": "Bénédiction d’Émilie",
   "UGDE.Emily_(O)72": "Le sens-tu ? La pure énergie divine émanant de cette gemme ? C'est tellement merveilleux...#$h#$e#Que Yoba te bénisse en cette belle journée.$7",
   "UGDE.Emily_(O)74": "Comme c'est merveilleux... Un cocktail d'énergie positive, qui circule tout autour de nous ! C'est donc le pouvoir d'une Éclat prismatique...#$h#$e#Cela éclairera considérablement l'ambiance de notre salon !#$h",
@@ -100,13 +101,16 @@
   "UGDE.Jodi_(O)190_Early": "Un chou-fleur ! Hmm... Tu m'as donné quelques idées. Merci. #$e#Je vais expérimenter quelques plats avec celui-ci... Si tout se passe bien, je pourrais t’en redemander bientôt, d'accord ?",
   "UGDE.Jodi_(O)190_AfterQuest": "Un autre chou-fleur ! Merci. #$e#Il est difficile de faire manger des légumes à Vincent, mais le curry jaune fonctionne toujours…",
   "UGDE.Kent_category_cooking": "\"Ce n'est pas aussi bon que les repas de ma femme, mais c'est proche. Merci. #$h#$e#Ne faites jamais confiance à un homme dont la nourriture préférée n'est pas la cuisine de son épouse. Conseil d'un soldat.",
+  "UGDE.Kent_category_cooking.DSV": "This isn't as good as my wife's meals, but it's close. Thanks.$h#$e#Never trust a man whose favorite food isn't their spouse's cooking. Tip from a husband.", //new
   "UGDE.Kent_(O)607_1": "Cela me rappelle de bons souvenirs... Merci. #$h",
   "UGDE.Kent_(O)607_2": "Je faisais ça moi-même quand j'étais enfant, en jouant dans la forêt. #$h#$b#Je démarrais un feu de camp comme on m'avait appris et je les grillais sur une flamme ouverte. #$h#$b#Je prenais la sécurité incendie très au sérieux et je vérifiais toujours trois fois que j'avais bien éteint le feu.$5",
   "UGDE.Kent_(O)607_3": "Cette attitude méticuleuse a fini par me sauver la vie sur le champ de bataille...#$2#$b#Ne répète pas à Jodi que je t'ai dit.",
+  "UGDE.Kent_(O)607_3.DSV": "That meticulous attitude ended up saving my life over in Gotoro...$2#$b#Don't tell Jodi I said that.$0", //new
   "UGDE.Krobus_(O)203": "Puis-je... ? *mâchouille* Oh wow... Est-ce vraiment de la cuisine humaine ? Je n'ai jamais goûté quelque chose d’aussi délicieux !#$h#$e#La plupart des plats de votre peuple m'ont déçu, mais ça, c'est une exception.",
   "UGDE.Krobus_(O)265": "Ça sent un peu comme les égouts, mais... en mieux. Merci.",
   "UGDE.Krobus_(O)16": "Ça a un goût si doux et sucré ! J'adore !#$h",
   "UGDE.Leah_(O)348": "Oh, ça a l'air super ! Tu l'as fait sur ta ferme ?#$h#$e#J'aime me détendre avec un verre de vin à la fin d'une journée fructueuse... ha ! Fructueuse. Ce jeu de mots n'était pas intentionnel.$h",
+  "UGDE.Leah_(O)350.DSV": "Oh, this look great! Did you make that on your farm?$h#$e#I like to unwind with a glass of juice at the end of a fruitful day... ha! Fruitful. That pun wasn't on purpose.$h", //new
   "UGDE.Leah_BirthdayGiftNegative": "Pas d’offense, mais ton instinct pour les cadeaux d'anniversaire est aussi mauvais que celui de mon ex.",
   "UGDE.Leah_BirthdayGiftNegative_10Hearts": "Urgh... Tu ne pouvais pas savoir, mais c'était la dernière chose que Kel m'a offerte pour mon anniversaire avant qu'on se sépare. #$s#$e#Oui, c'était l'une des raisons. #$s#$b#Bon eh bien, je refuse de laisser cela gâcher mon anniversaire ! Tu feras mieux l'année prochaine, @.",
   "UGDE.Leo_(O)395": "Qu'est-ce que c'est ? Tu as fait une boisson à base de \"haricots\" ? *slurp* #$b#... oh-oh. $2#$e#> V-v-o-ler ! Je d-d-dois m’env-v-o-ler...!!!$2",
