@@ -12,6 +12,8 @@ He has no lines for birthday presents.*/
       //TODO Sashimi
       "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Pierre_BirthdayGiftPositive}}",//Loved, liked, neutral birthday gift
       "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Pierre_BirthdayGiftNegative}}", //Disliked or hated birthday gift
+      //TODO 148 Eel
+      //TODO 162 Lava Eel
 
     }
   }

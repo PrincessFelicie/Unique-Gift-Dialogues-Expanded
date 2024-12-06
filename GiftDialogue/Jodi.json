@@ -13,7 +13,8 @@ She has no lines for birthday presents.*/
       "AcceptGift_(O)203": "{{i18n:UGDE.Jodi_(O)203}}", //Strange Bun
       "AcceptGift_(O)190": "$query PLAYER_HAS_MAIL Current spring_19_1 Received #{{i18n:UGDE.Jodi_(O)190_AfterQuest}}|{{i18n:UGDE.Jodi_(O)190_Early}}", //Cauliflower
       "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Jodi_AcceptBirthdayGift_Positive}}",
-      "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Jodi_AcceptBirthdayGift_Negative}}"
+      "AcceptBirthdayGift_Negative": "{{i18n:UGDE.Jodi_AcceptBirthdayGift_Negative}}",
+      //TODO Daffodil. Atchoo! Allergies!
 
     }
   }
