@@ -12,6 +12,7 @@ Last verified: 1.6.14*/
       "AcceptGift_(O)221": "{{i18n:UGDE.Jas_Cake_1}}#$e#$c 0.5#{{i18n:UGDE.Jas_Cake_2a}}#{{i18n:UGDE.Jas_Cake_2b}}", //Pink Cake
       "AcceptGift_(O)220": "{{i18n:UGDE.Jas_Cake_1}}#$e#$c 0.5#{{i18n:UGDE.Jas_Cake_2a}}#{{i18n:UGDE.Jas_Cake_2b}}", //Chocolate Cake
       "AcceptGift_category_artisan_goods": "{{i18n:UGDE.Jas_category_artisan_goods}}", //Artisan goods
+      //TODO toy_item? I don't know if it's worth it, a single object uses that tag in vanilla SV, and it's the ancient doll that Jas already has a line for. Depends if there's a lot of mods out there that use it...
 
     }
   }

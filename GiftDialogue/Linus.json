@@ -1,5 +1,5 @@
-/*Vanilla Linus has a line for The Alleyway Buffet, all positively-received forage items, Wild Bait, Treasure Chest, and all positively-received fish.
-Same as with Gus, when I first started working on this mod, Linus's reaction to liked forage applied to *all* forage instead, regardless of whether he liked it. Even with that fixed, there's still the issue that that line talks about *eating* it, which isn't great for poisonous forage.
+/*Vanilla Linus has a line for The Alleyway Buffet, all positively-received forage food, Wild Bait, Treasure Chest, and all positively-received fish.
+Same as with Gus, when I first started working on this mod, Linus's reaction to liked forage food applied to *all* forage instead, regardless of edibility.
 He has no lines for birthday presents.
 Last verified: 1.6.14*/
 

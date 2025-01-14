@@ -10,8 +10,8 @@ Last verified: 1.6.14*/
     "Entries": {
 
       "AcceptGift_(O)20": "$query PLAYER_SPECIAL_ORDER_COMPLETE any Evelyn#{{i18n:UGDE.Evelyn_(O)20_AfterSpecial}}#$action AddFriendshipPoints George 25|%revealtasteGeorge20 {{i18n:UGDE.Evelyn_(O)20_Early}}",//Leek
-      "AcceptGift_category_flowers": "{{i18n:UGDE.Evelyn_category_flowers}}", //All flowers not specified elsewhere, like modded ones.
-      "AcceptGift_(O)18": "{{i18n:UGDE.Evelyn_category_flowers}}", //Daffodil, which is considered a forage rather than a flower
+      "AcceptGift_Positive_category_flowers": "{{i18n:UGDE.Evelyn_Positive_category_flowers}}", //All flowers not specified elsewhere, like modded ones.
+      "AcceptGift_(O)18": "{{i18n:UGDE.Evelyn_Positive_category_flowers}}", //Daffodil, which is considered a forage rather than a flower
       "AcceptGift_(O)595": "{{i18n:UGDE.Evelyn_(O)595}}", //Fairy Rose
       "AcceptGift_Raisins": "{{i18n:UGDE.Evelyn_Raisins_1}}#$e#{{i18n:UGDE.Evelyn_Raisins_2}}", //Raisins... In case that wasn't obvious
       "AcceptBirthdayGift_Positive": "{{i18n:UGDE.Evelyn_BirthdayGiftPositive}}", //Loved, liked, neutral birthday gift

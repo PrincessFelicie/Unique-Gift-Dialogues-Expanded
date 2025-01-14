@@ -21,6 +21,7 @@ Last verified: 1.6.14*/
       //TODO Battery Pack. Change it to a neutral gift after the quest is completed?
       //TODO "AcceptBirthdayGift_Positive"
       //TODO "AcceptBirthdayGift_Negative". Potentially split it five-ways if inspiration strikes.
+      //TODO alcohol_item tag, for modded alcohols.
 
    }
   }

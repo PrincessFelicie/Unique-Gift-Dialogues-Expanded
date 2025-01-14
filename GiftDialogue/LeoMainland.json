@@ -10,7 +10,7 @@ Last verified: 1.6.14*/
 
     "Entries": {
 
-      "AcceptGift_(TR)ParrotEgg": "{{i18n:UGDE.LeoMainland_(TR)ParrotEgg)}}", //Vanilla line, present in Leo but missing from LeoMainland. Written pretty circumstances-agnostic, might as well make it active for LeoMainland too.
+      "AcceptGift_(TR)ParrotEgg": "{{i18n:UGDE.LeoMainland_(TR)ParrotEgg}}", //Vanilla line, present in Leo but missing from LeoMainland. Written pretty circumstances-agnostic, might as well make it active for LeoMainland too.
       "AcceptGift_(O)395": "{{i18n:UGDE.LeoMainland_(O)395}}", //Coffee
       "AcceptGift_(O)253": "{{i18n:UGDE.LeoMainland_(O)253}}[253]", //Triple-Shot Expresso
       "AcceptGift_(O)444": "{{i18n:UGDE.LeoMainland_(O)444}}", //Duck Feather

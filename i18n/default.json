@@ -119,7 +119,7 @@
     //Evelyn
     "UGDE.Evelyn_(O)20_Early": "Thank you, dear. Give this to George next time, I know he would enjoy it very much.",
     "UGDE.Evelyn_(O)20_AfterSpecial": "It was so kind of you to help with George's surprise gift. I'll make sure this finds him too.",
-    "UGDE.Evelyn_category_flowers": "Ah, don't they look and smell lovely...! I will find a matching vase to put them in. Thank you, dear.$h",
+    "UGDE.Evelyn_Positive_category_flowers": "Ah, don't they look and smell lovely...! I will find a matching vase to put them in. Thank you, dear.$h",
     "UGDE.Evelyn_(O)595": "Oh my, I wouldn't mind a little visit from a friendly fairy! Maybe this will be just what I need to invite one over tea...$h#$e#I spotted one near your farm once, when I was much younger. Of course, it was your grandfather's at the time...",
     "UGDE.Evelyn_Raisins_1": "These taste just wonderful, my dear! Good old %farm Farm raisins... How I missed the taste.$h",
     "UGDE.Evelyn_Raisins_2": "Your grandfather used to make so many of these ahead of any harvest, more than I could ever buy from him.#$b#I must not have been the only raisin lover in the Valley... *wink*",
@@ -300,16 +300,16 @@
 
     //Vincent
     "UGDE.Vincent_Cake": "Wow, it's so big! I don't have to share, do I?$h#$b#Well it's *my* cake, so *I* get to choose what I do with it.",
-    "UGDE.Vincent_(O)398_1": "I love grapes! They're the best fruit ever! Thanks, mister farmer!^I love grapes! They're the best fruit ever! Thanks, miss farmer!",
+    "UGDE.Vincent_(O)398_1": "I love grapes! They're the best fruit ever! Thanks, ${mister farmer^miss farmer^mi... mist... mixter farmer}$!",
     "UGDE.Vincent_(O)398_2": "Dad and I, we always go collect grapes together in Summer...#$b#Last year, I tried to give one to miss Penny.#$b#She made the same face as that time I found a cool slug on the way to class.$h",
     "UGDE.Vincent_Raisins": "What happened to those grapes? They're so tiny. *chew chew*$0#$b#...*ptooey*$s#$e#%Vincent looks so disappointed he might cry.",
     "UGDE.Vincent_category_artisan_goods": "That's for grownups.$s",
 
     //Willy
     "UGDE.Willy_EasyFish": "Well done! Catch a few more of these and we might have a meal.",
-    "UGDE.Willy_MediumFish": "Well caught, lad. Keep at it!^Well caught, miss. Keep at it!",
+    "UGDE.Willy_MediumFish": "Well caught, ${lad^miss^sailor}$. Keep at it!",
     "UGDE.Willy_HardFish": "A mighty fine catch if I do say so meself! Looks like you've got the hang of that rod o' yours.$h",
-    "UGDE.Willy_VeryHardFish": "What a beast... And yer giving this to me? Thanks, lad. I'll try smokin' it and see how it tastes.^What a beast... And yer giving this to me? Thanks, miss. I'll try smokin' it and see how it tastes.",
+    "UGDE.Willy_VeryHardFish": "What a beast... And yer giving this to me? Thanks, ${lad^miss^sailor}$. I'll try smokin' it and see how it tastes.",
     "UGDE.Willy_(O)143": "Me first ever catch was one o' these! T'was beginner's luck, but it inspired me to follow in my Pappy's footsteps...$h#$e#*sniff* And now ye got this ol' sailor reminiscin'...",
 
     //Wizard

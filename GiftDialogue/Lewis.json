@@ -9,7 +9,7 @@ Last verified: 1.6.14*/
 
     "Entries": {
 
-      "AcceptGift_Loved_category_cooking": "{{i18n:UDGE.Lewis_Loved_category_cooking}}", //Should apply to Vegetable Medley, Glazed Yams, Autumn's bounty, and Magic Rock Candy, as well as any other loved foods that mods add to him.
+      "AcceptGift_Loved_category_cooking": "{{i18n:UGDE.Lewis_Loved_category_cooking}}", //Should apply to Vegetable Medley, Glazed Yams, Autumn's bounty, and Magic Rock Candy, as well as any other loved foods that mods add to him.
       //TODO Magic Rock Candy. Don't want it using the same line as the rest of loved foods, but that's a future problem.
       //TODO Truffle Oil
 
